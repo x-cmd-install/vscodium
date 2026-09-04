@@ -1,0 +1,63 @@
+about:
+  description:
+  |
+    binary releases of VS Code without MS branding/telemetry/licensing
+  license: MIT
+  homepage: https://vscodium.com
+  head: f8091bc
+  archived: false
+  latestVersion: 1.126.04524
+  collectedAt: 2026-09-04T04:45:41Z
+timeline:
+  created: 2018-08-13
+  lastCommit: 2026-08-31
+  lastRelease: 2026-07-07
+popularity:
+  star: 33107
+  watcher: 245
+  fork: 1858
+  release: 271
+  contributor: 130
+  pullRequest: 149
+  issue: 1742
+language:
+  Shell: 149151
+  XSLT: 19766
+  TypeScript: 8130
+  PowerShell: 210
+  Python: 175
+  Just: 134
+totalBytes: 177566
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 16
+    openPR: 6
+    closedIssue: 1
+    openIssue: 12
+    commit: 1
+  last90d:
+    since: 2026-06-06
+    release: 1
+    mergedPR: 40
+    openPR: 7
+    closedIssue: 6
+    openIssue: 38
+    commit: 17
+  last180d:
+    since: 2026-03-08
+    release: 5
+    mergedPR: 92
+    openPR: 9
+    closedIssue: 32
+    openIssue: 70
+    commit: 97
+  last360d:
+    since: 2025-09-09
+    release: 31
+    mergedPR: 172
+    openPR: 9
+    closedIssue: 125
+    openIssue: 97
+    commit: 218
