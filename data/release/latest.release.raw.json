@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 211411971,
       "digest": "sha256:06999713133dbe19b66b01ca49c863cb9ef8e60384884a7374bb69f4463399d8",
-      "download_count": 2177,
+      "download_count": 2185,
       "created_at": "2026-07-07T13:47:15Z",
       "updated_at": "2026-07-07T13:47:22Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium-1.126.04524-el8.aarch64.rpm"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 101,
       "digest": "sha256:3d3ef15d4319cedc9926668375b1cd302b0d9d9066165943806ce782d0cca776",
-      "download_count": 771,
+      "download_count": 775,
       "created_at": "2026-07-07T13:47:15Z",
       "updated_at": "2026-07-07T13:47:15Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium-1.126.04524-el8.aarch64.rpm.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 215307498,
       "digest": "sha256:be01b511e70941167a50b4d63bb016e080746b779eb979c0fa868bd0f96443c2",
-      "download_count": 10021,
+      "download_count": 10031,
       "created_at": "2026-07-07T14:17:27Z",
       "updated_at": "2026-07-07T14:17:36Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium-1.126.04524-el8.x86_64.rpm"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 147152256,
       "digest": "sha256:b4edf5dd785826fb9539918e715671580395441ee15f090413fd6f89e1c617c7",
-      "download_count": 35001,
+      "download_count": 35034,
       "created_at": "2026-07-07T14:17:37Z",
       "updated_at": "2026-07-07T14:17:45Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium_1.126.04524_amd64.deb"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 138458576,
       "digest": "sha256:a019ba332b3ffb68dc58afc633ad686ce2074e81af08b6382eed698c5631ee5d",
-      "download_count": 6024,
+      "download_count": 6029,
       "created_at": "2026-07-07T13:47:22Z",
       "updated_at": "2026-07-07T13:47:26Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/codium_1.126.04524_arm64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 11052928,
       "digest": "sha256:62a3775aa20d44e970ac62d9c243c6957c57679dac872c8088c5b22ba0d586e1",
-      "download_count": 10207,
+      "download_count": 10222,
       "created_at": "2026-07-07T13:01:11Z",
       "updated_at": "2026-07-07T13:01:12Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-1.126.04524-src.tar.gz"
@@ -931,7 +931,7 @@
       "state": "uploaded",
       "size": 218137792,
       "digest": "sha256:c6d5eea23a7329b360b8c310f52316ae12b938aa7d827d2e3f96fa742e998614",
-      "download_count": 9157,
+      "download_count": 9168,
       "created_at": "2026-07-07T14:17:05Z",
       "updated_at": "2026-07-07T14:17:13Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-1.126.04524.glibc2.34-x86_64.AppImage"
@@ -1039,7 +1039,7 @@
       "state": "uploaded",
       "size": 373063,
       "digest": "sha256:903c41c64070b6a4853075048ab89d9ac84277454715029ae135ab9a9177b178",
-      "download_count": 9678,
+      "download_count": 9690,
       "created_at": "2026-07-07T14:17:14Z",
       "updated_at": "2026-07-07T14:17:15Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-1.126.04524.glibc2.34-x86_64.AppImage.zsync"
@@ -1579,7 +1579,7 @@
       "state": "uploaded",
       "size": 11406269,
       "digest": "sha256:9e7787f792324587f6c1a4b7993038440a875dac914da9c8d5f05b817bdb0143",
-      "download_count": 1582,
+      "download_count": 1584,
       "created_at": "2026-07-07T14:17:46Z",
       "updated_at": "2026-07-07T14:17:49Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-cli-linux-x64-1.126.04524.tar.gz"
@@ -1903,7 +1903,7 @@
       "state": "uploaded",
       "size": 210873558,
       "digest": "sha256:f21ee52629eb5e39c055daea70118b7a6055c639aecf3dad05e1997a9ad83ac0",
-      "download_count": 2378411,
+      "download_count": 2381560,
       "created_at": "2026-07-07T13:36:58Z",
       "updated_at": "2026-07-07T13:37:10Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-darwin-arm64-1.126.04524.zip"
@@ -2011,7 +2011,7 @@
       "state": "uploaded",
       "size": 219148727,
       "digest": "sha256:fa0637bf6fa511487611bc65dc47b0d4e247513e16309879bf9bd4677cf5243e",
-      "download_count": 486869,
+      "download_count": 487429,
       "created_at": "2026-07-07T13:48:54Z",
       "updated_at": "2026-07-07T13:49:03Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-darwin-x64-1.126.04524.zip"
@@ -2119,7 +2119,7 @@
       "state": "uploaded",
       "size": 209405982,
       "digest": "sha256:73d87d46d4dc208fe12c0497dc607aab0a6e2bf332f54a0b6826a3a1aa32bc34",
-      "download_count": 2541,
+      "download_count": 2543,
       "created_at": "2026-07-07T13:47:08Z",
       "updated_at": "2026-07-07T13:47:14Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-linux-arm64-1.126.04524.tar.gz"
@@ -2227,7 +2227,7 @@
       "state": "uploaded",
       "size": 207756811,
       "digest": "sha256:a7c8703a0e416d5bc919e42806b82d778807b189b0121b05fc8f9b93c833228e",
-      "download_count": 596,
+      "download_count": 598,
       "created_at": "2026-07-07T13:40:10Z",
       "updated_at": "2026-07-07T13:40:19Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-linux-loong64-1.126.04524.tar.gz"
@@ -2551,7 +2551,7 @@
       "state": "uploaded",
       "size": 213520591,
       "digest": "sha256:adf3548df055d18e476cdee887488ba7486b879ad99a31a546c6b5c5ff296c24",
-      "download_count": 84346,
+      "download_count": 84442,
       "created_at": "2026-07-07T14:17:17Z",
       "updated_at": "2026-07-07T14:17:26Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-linux-x64-1.126.04524.tar.gz"
@@ -2767,7 +2767,7 @@
       "state": "uploaded",
       "size": 107328460,
       "digest": "sha256:66670f571b3f3691a37e4c8631d4b5fa216c80ea101d554fa8d501c0c4f7e883",
-      "download_count": 1106,
+      "download_count": 1107,
       "created_at": "2026-07-07T13:42:19Z",
       "updated_at": "2026-07-07T13:42:23Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-alpine-x64-1.126.04524.tar.gz"
@@ -2875,7 +2875,7 @@
       "state": "uploaded",
       "size": 100144324,
       "digest": "sha256:9628499b6539a8c3c3fe4019da6afc5fe13c633909be9e9aa13334f30beacb98",
-      "download_count": 820,
+      "download_count": 824,
       "created_at": "2026-07-07T13:37:23Z",
       "updated_at": "2026-07-07T13:37:28Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-darwin-arm64-1.126.04524.tar.gz"
@@ -2983,7 +2983,7 @@
       "state": "uploaded",
       "size": 101688369,
       "digest": "sha256:16ce631b426c80dc1839ac397c795b01fcd853aaef0e10955ba0a437674f0d3b",
-      "download_count": 664,
+      "download_count": 665,
       "created_at": "2026-07-07T13:49:04Z",
       "updated_at": "2026-07-07T13:49:09Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-darwin-x64-1.126.04524.tar.gz"
@@ -3091,7 +3091,7 @@
       "state": "uploaded",
       "size": 103637116,
       "digest": "sha256:a229738c0f927582db1599d1839a1dfd08bdf70043f6ac9cf066d31b232be33f",
-      "download_count": 3066,
+      "download_count": 3068,
       "created_at": "2026-07-07T13:44:14Z",
       "updated_at": "2026-07-07T13:44:19Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-linux-arm64-1.126.04524.tar.gz"
@@ -3415,7 +3415,7 @@
       "state": "uploaded",
       "size": 98750113,
       "digest": "sha256:a5ff9dad9c366f2c5726903f954b0fd2e0304ef2a07601d6b000c96751be3e99",
-      "download_count": 473,
+      "download_count": 474,
       "created_at": "2026-07-11T08:08:01Z",
       "updated_at": "2026-07-11T08:08:04Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-linux-riscv64-1.126.04524.tar.gz"
@@ -3631,7 +3631,7 @@
       "state": "uploaded",
       "size": 106077284,
       "digest": "sha256:342fac91ec7173affb8dd00b439b868b3ee6ce229dc7d18bb94c7cdd6d985a80",
-      "download_count": 23815,
+      "download_count": 23847,
       "created_at": "2026-07-07T13:41:19Z",
       "updated_at": "2026-07-07T13:41:24Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-linux-x64-1.126.04524.tar.gz"
@@ -3667,7 +3667,7 @@
       "state": "uploaded",
       "size": 84,
       "digest": "sha256:f38bc0bfbc0e2d48852249b195450420a6144a162a3efe8e4929d72b2d7de1f5",
-      "download_count": 548,
+      "download_count": 549,
       "created_at": "2026-07-07T13:41:19Z",
       "updated_at": "2026-07-07T13:41:20Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-linux-x64-1.126.04524.tar.gz.sha1"
@@ -3703,7 +3703,7 @@
       "state": "uploaded",
       "size": 108,
       "digest": "sha256:0dafbd792aa6d000c1b2242b190022dc19f6d1bcbf5b880b7915658add609286",
-      "download_count": 848,
+      "download_count": 849,
       "created_at": "2026-07-07T13:41:19Z",
       "updated_at": "2026-07-07T13:41:20Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-linux-x64-1.126.04524.tar.gz.sha256"
@@ -3955,7 +3955,7 @@
       "state": "uploaded",
       "size": 109165057,
       "digest": "sha256:bd587280e1d29113ff73f67438571853536b88f6af5bc58e59a16010ce1c9734",
-      "download_count": 1023,
+      "download_count": 1025,
       "created_at": "2026-07-07T13:37:28Z",
       "updated_at": "2026-07-07T13:37:33Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-web-darwin-arm64-1.126.04524.tar.gz"
@@ -4063,7 +4063,7 @@
       "state": "uploaded",
       "size": 110704600,
       "digest": "sha256:c3cbece13b47c748be8ac64c773471a20fcb809ae8de0188abcd949cb0ef49c4",
-      "download_count": 635,
+      "download_count": 637,
       "created_at": "2026-07-07T13:49:10Z",
       "updated_at": "2026-07-07T13:49:15Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-web-darwin-x64-1.126.04524.tar.gz"
@@ -4711,7 +4711,7 @@
       "state": "uploaded",
       "size": 115101931,
       "digest": "sha256:9964a8b66431dced583a820d60a852a7995c86607c4c983152adc7a5c876d60d",
-      "download_count": 4717,
+      "download_count": 4719,
       "created_at": "2026-07-07T13:41:24Z",
       "updated_at": "2026-07-07T13:41:29Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-web-linux-x64-1.126.04524.tar.gz"
@@ -4819,7 +4819,7 @@
       "state": "uploaded",
       "size": 108172190,
       "digest": "sha256:43f15c8e5c95b795d6eb72a62095498d901ee633938cb3f8297256192062b333",
-      "download_count": 1739,
+      "download_count": 1742,
       "created_at": "2026-07-07T15:40:02Z",
       "updated_at": "2026-07-07T15:40:06Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-web-win32-x64-1.126.04524.tar.gz"
@@ -4927,7 +4927,7 @@
       "state": "uploaded",
       "size": 99168362,
       "digest": "sha256:c32fc39eb383ab6d280c0a54bea946c596bb6cc2a2c3ba01b06bedbffbbd02de",
-      "download_count": 1061,
+      "download_count": 1063,
       "created_at": "2026-07-07T15:40:07Z",
       "updated_at": "2026-07-07T15:40:10Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/vscodium-reh-win32-x64-1.126.04524.tar.gz"
@@ -5035,7 +5035,7 @@
       "state": "uploaded",
       "size": 226260661,
       "digest": "sha256:f1b6c2303c6c69142aec6f0d4bb8048c7a9f664fcc535b0adc7ff02eac66dae7",
-      "download_count": 1975,
+      "download_count": 1977,
       "created_at": "2026-07-07T15:39:17Z",
       "updated_at": "2026-07-07T15:39:22Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-win32-arm64-1.126.04524.zip"
@@ -5143,7 +5143,7 @@
       "state": "uploaded",
       "size": 231115354,
       "digest": "sha256:5b5bc348861ce861aed968b086233b45050694013c0607ea66b401f31b987c57",
-      "download_count": 21271,
+      "download_count": 21298,
       "created_at": "2026-07-07T15:39:28Z",
       "updated_at": "2026-07-07T15:39:34Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-win32-x64-1.126.04524.zip"
@@ -5251,7 +5251,7 @@
       "state": "uploaded",
       "size": 192176128,
       "digest": "sha256:1c8d665b49788fc0fd2f59405ec675782858fa303ab1ed60d13350bae95a5caf",
-      "download_count": 32202,
+      "download_count": 32234,
       "created_at": "2026-07-07T15:39:34Z",
       "updated_at": "2026-07-07T15:39:40Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-x64-1.126.04524.msi"
@@ -5359,7 +5359,7 @@
       "state": "uploaded",
       "size": 192176128,
       "digest": "sha256:4da5116cccb92a9da95ade07ecb40f95f947c130b3d0910c5734f302f9eeeef7",
-      "download_count": 4805,
+      "download_count": 4809,
       "created_at": "2026-07-07T15:39:41Z",
       "updated_at": "2026-07-07T15:39:47Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium-x64-updates-disabled-1.126.04524.msi"
@@ -5467,7 +5467,7 @@
       "state": "uploaded",
       "size": 208778484,
       "digest": "sha256:361dbd23017ca24029e19316faef0371dfd20dc0bd1295ac7b02ff4fdfb9e3d3",
-      "download_count": 44979,
+      "download_count": 45007,
       "created_at": "2026-07-07T13:37:11Z",
       "updated_at": "2026-07-07T13:37:20Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium.arm64.1.126.04524.dmg"
@@ -5575,7 +5575,7 @@
       "state": "uploaded",
       "size": 216834793,
       "digest": "sha256:81f84926cc6f77a0bcac44698def584a3a0ced2921408f23d13e4a9f9aeac8b2",
-      "download_count": 47161,
+      "download_count": 47180,
       "created_at": "2026-07-07T13:49:16Z",
       "updated_at": "2026-07-07T13:49:25Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodium.x64.1.126.04524.dmg"
@@ -5683,7 +5683,7 @@
       "state": "uploaded",
       "size": 153247464,
       "digest": "sha256:89f32c9e16349d27f6f2721b702ffd2ed3daf579b0d49690b66caecefcc55baf",
-      "download_count": 2966,
+      "download_count": 2967,
       "created_at": "2026-07-07T15:39:23Z",
       "updated_at": "2026-07-07T15:39:27Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumSetup-arm64-1.126.04524.exe"
@@ -5791,7 +5791,7 @@
       "state": "uploaded",
       "size": 160892288,
       "digest": "sha256:7b378893e2b3b9a2504eae848f19a6544e475519fd791c32459a42bb0601f5fe",
-      "download_count": 89901,
+      "download_count": 89983,
       "created_at": "2026-07-07T15:39:48Z",
       "updated_at": "2026-07-07T15:39:54Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumSetup-x64-1.126.04524.exe"
@@ -5899,7 +5899,7 @@
       "state": "uploaded",
       "size": 153247872,
       "digest": "sha256:baa6bcd49e363925af3f5d134fc36a26528735f81cc6d85317cfb42a2ead22ec",
-      "download_count": 3462,
+      "download_count": 3467,
       "created_at": "2026-07-07T15:39:28Z",
       "updated_at": "2026-07-07T15:39:33Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumUserSetup-arm64-1.126.04524.exe"
@@ -6007,7 +6007,7 @@
       "state": "uploaded",
       "size": 160892632,
       "digest": "sha256:a8c0516a9b17d1ba4887898f0966445bc61b386fd11578e57433f1e57e9868c9",
-      "download_count": 126108,
+      "download_count": 126251,
       "created_at": "2026-07-07T15:39:55Z",
       "updated_at": "2026-07-07T15:40:00Z",
       "browser_download_url": "https://github.com/VSCodium/vscodium/releases/download/1.126.04524/VSCodiumUserSetup-x64-1.126.04524.exe"
