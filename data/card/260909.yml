@@ -4,24 +4,24 @@ about:
   homepage: https://vscodium.com
   head: 5a73682
   archived: false
-  latestVersion: "1.126.04524"
-  latestRelease: "1.126.04524"
+  latestVersion: "1.135.06055"
+  latestRelease: "1.135.06055"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T03:51:17Z
+  collectedAt: 2026-09-09T18:31:49Z
 timeline:
   created: 2018-08-13
   lastCommit: 2026-09-08
-  lastVersion: 2026-07-07
-  lastRelease: 2026-07-07
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 33168
+  star: 33173
   watcher: 246
-  fork: 1860
-  release: 271
+  fork: 1857
+  release: 272
   contributor: 133
-  pullRequest: 890
-  issue: 1742
+  pullRequest: 892
+  issue: 1743
 language:
   Shell: 153746
   XSLT: 18657
@@ -34,62 +34,62 @@ totalBytes: 181932
 recent:
   last30d:
     since: 2026-08-10
-    release: 0
+    release: 1
     mergedPR: 20
-    openPR: 8
-    closedIssue: 2
+    openPR: 6
+    closedIssue: 3
     openIssue: 8
     commit: 31
   last60d:
     since: 2026-07-11
-    release: 0
+    release: 1
     mergedPR: 33
-    openPR: 9
-    closedIssue: 3
+    openPR: 7
+    closedIssue: 4
     openIssue: 25
     commit: 43
   last90d:
     since: 2026-06-11
-    release: 1
+    release: 2
     mergedPR: 45
-    openPR: 9
-    closedIssue: 6
+    openPR: 7
+    closedIssue: 7
     openIssue: 35
     commit: 55
   last180d:
     since: 2026-03-13
-    release: 4
+    release: 5
     mergedPR: 96
-    openPR: 11
-    closedIssue: 32
+    openPR: 9
+    closedIssue: 33
     openIssue: 66
     commit: 134
   last360d:
     since: 2025-09-14
-    release: 29
+    release: 30
     mergedPR: 174
-    openPR: 11
-    closedIssue: 122
+    openPR: 9
+    closedIssue: 123
     openIssue: 96
     commit: 249
   last720d:
     since: 2024-09-19
-    release: 78
+    release: 79
     mergedPR: 294
-    openPR: 12
-    closedIssue: 356
+    openPR: 10
+    closedIssue: 357
     openIssue: 113
     commit: 641
 total:
-  release: 271
+  release: 272
   mergedPR: 734
-  openPR: 14
-  closedIssue: 1615
+  openPR: 12
+  closedIssue: 1616
   openIssue: 127
   commit: 1919
 ---
 path: /home/runner/.x-repo/github.com/VSCodium/vscodium
-collectedAt: 2026-09-09T03:51:20Z
+collectedAt: 2026-09-09T18:31:54Z
 loc:
   Json:
     code: 6445
