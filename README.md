@@ -12,6 +12,28 @@ binary releases of VS Code without MS branding/telemetry/licensing
 x install vscodium
 ```
 
+## Code insight
+
+Total: **11,089** lines of code across **72** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Json | 6,445 | 0 | 9 | 12 |
+| Sh | 3,129 | 241 | 947 | 54 |
+| XSL | 435 | 1 | 32 | 1 |
+| Bash | 374 | 124 | 84 | 4 |
+| TypeScript | 234 | 1 | 47 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 4/23 approved changesets -- score normalized to 1
+- **Packaging** (-1/10) — packaging workflow not detected
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/VSCodium/vscodium>
@@ -23,6 +45,25 @@ x install vscodium
 - **Latest**: `1.135.06055` (2026-09-09)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 162
+
+## Popularity
+
+- **Stars**: 33,185 · **Forks**: 1,858 · **Open issues**: 1,746 · **Contributors**: 133
+
+## Totals (cumulative)
+
+- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 12 · **Closed issues**: 1617 · **Open issues**: 129 · **Commits**: 1919
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 20 | 6 | 2 | 11 | 31 |
+| last60d | 2026-07-12 | 1 | 33 | 7 | 4 | 26 | 43 |
+| 90d | 2026-06-12 | 2 | 45 | 7 | 7 | 36 | 55 |
+| last180d | 2026-03-14 | 5 | 96 | 9 | 33 | 69 | 134 |
+| 360d | 2025-09-15 | 30 | 174 | 9 | 123 | 98 | 249 |
+| last720d | 2024-09-20 | 79 | 294 | 10 | 358 | 115 | 641 |
 
 ## Release assets
 
@@ -191,43 +232,14 @@ x install vscodium
 | [VSCodiumUserSetup-x64-1.135.06055.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.135.06055/VSCodiumUserSetup-x64-1.135.06055.exe.sha1) | 80 B | `other` |
 | [VSCodiumUserSetup-x64-1.135.06055.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.135.06055/VSCodiumUserSetup-x64-1.135.06055.exe.sha256) | 104 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 33,182 · **Forks**: 1,858 · **Open issues**: 1,746 · **Contributors**: 133
+Reported by **59** distros on [repology.org](https://repology.org/project/vscodium). **12** are ✅ on the latest upstream release, **37** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 12 · **Closed issues**: 1617 · **Open issues**: 129 · **Commits**: 1919
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 20 | 6 | 2 | 11 | 31 |
-| 90d | 2026-06-12 | 2 | 45 | 7 | 7 | 36 | 55 |
-| 360d | 2025-09-15 | 30 | 174 | 9 | 123 | 98 | 249 |
-
-## Code size
-
-Total: **11,089** lines of code across **72** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Json | 6,445 | 0 | 9 | 12 |
-| Sh | 3,129 | 241 | 947 | 54 |
-| XSL | 435 | 1 | 32 | 1 |
-| Bash | 374 | 124 | 84 | 4 |
-| TypeScript | 234 | 1 | 47 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 4/23 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.126.04524` | ⚠️ outdated |
+| Alpine edge | `1.110.11631` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -238,4 +250,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:00:00Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:22:21Z._
