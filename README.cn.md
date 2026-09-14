@@ -48,22 +48,22 @@ x install vscodium
 
 ## 流行度
 
-- **Star**: 33,214 · **Fork**: 1,861 · **开放 issue**: 1,748 · **贡献者**: 133
+- **Star**: 33,223 · **Fork**: 1,862 · **开放 issue**: 1,750 · **贡献者**: 133
 
 ## 累计统计
 
-- **发布数**: 272 · **已合并 PR**: 734 · **开放 PR**: 12 · **已关闭 issue**: 1620 · **开放 issue**: 128 · **提交数**: 1919
+- **发布数**: 272 · **已合并 PR**: 734 · **开放 PR**: 12 · **已关闭 issue**: 1621 · **开放 issue**: 129 · **提交数**: 1919
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 19 | 6 | 3 | 12 | 31 |
-| last60d | 2026-07-15 | 1 | 33 | 7 | 5 | 26 | 43 |
-| 90d | 2026-06-15 | 2 | 45 | 7 | 8 | 36 | 55 |
-| last180d | 2026-03-17 | 5 | 95 | 9 | 34 | 68 | 134 |
-| 360d | 2025-09-18 | 30 | 174 | 9 | 123 | 97 | 249 |
-| last720d | 2024-09-23 | 79 | 294 | 10 | 359 | 114 | 641 |
+| 30d | 2026-08-15 | 1 | 19 | 6 | 3 | 14 | 31 |
+| last60d | 2026-07-16 | 1 | 33 | 7 | 5 | 25 | 43 |
+| 90d | 2026-06-16 | 2 | 45 | 7 | 8 | 38 | 55 |
+| last180d | 2026-03-18 | 5 | 95 | 9 | 34 | 70 | 126 |
+| 360d | 2025-09-19 | 29 | 174 | 9 | 124 | 98 | 248 |
+| last720d | 2024-09-24 | 79 | 293 | 10 | 360 | 115 | 641 |
 
 ## Release 资产
 
@@ -232,15 +232,6 @@ x install vscodium
 | [VSCodiumUserSetup-x64-1.135.06055.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.135.06055/VSCodiumUserSetup-x64-1.135.06055.exe.sha1) | 80 B | `other` |
 | [VSCodiumUserSetup-x64-1.135.06055.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.135.06055/VSCodiumUserSetup-x64-1.135.06055.exe.sha256) | 104 B | `other` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/vscodium) 上共有 **60** 个发行版报告此项目。**16** 个 ✅ 已是最新上游版本，**34** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Nix unstable | `1.126.04524` | ⚠️ outdated |
-| Alpine edge | `1.110.11631` | ⚠️ outdated |
-
 ## 改进这些数据
 
 vscodium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `vscodium` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -250,4 +241,4 @@ vscodium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T03:58:16Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T04:06:13Z._
