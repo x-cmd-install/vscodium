@@ -30,7 +30,7 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/23 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,223 · **Forks**: 1,862 · **Open issues**: 1,750 · **Contributors**: 133
+- **Stars**: 33,239 · **Forks**: 1,861 · **Open issues**: 1,749 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 12 · **Closed issues**: 1621 · **Open issues**: 129 · **Commits**: 1919
+- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 14 · **Closed issues**: 1622 · **Open issues**: 127 · **Commits**: 1919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 19 | 6 | 3 | 14 | 31 |
-| last60d | 2026-07-16 | 1 | 33 | 7 | 5 | 25 | 43 |
-| 90d | 2026-06-16 | 2 | 45 | 7 | 8 | 38 | 55 |
-| last180d | 2026-03-18 | 5 | 95 | 9 | 34 | 70 | 126 |
-| 360d | 2025-09-19 | 29 | 174 | 9 | 124 | 98 | 248 |
-| last720d | 2024-09-24 | 79 | 293 | 10 | 360 | 115 | 641 |
+| 30d | 2026-08-16 | 1 | 19 | 8 | 3 | 14 | 31 |
+| last60d | 2026-07-17 | 1 | 33 | 9 | 4 | 24 | 43 |
+| 90d | 2026-06-17 | 2 | 45 | 9 | 8 | 37 | 55 |
+| last180d | 2026-03-19 | 5 | 94 | 11 | 33 | 69 | 126 |
+| 360d | 2025-09-20 | 29 | 174 | 11 | 125 | 96 | 248 |
+| last720d | 2024-09-25 | 79 | 293 | 12 | 361 | 113 | 641 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T04:06:12Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T04:05:07Z._

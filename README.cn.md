@@ -30,7 +30,7 @@ x install vscodium
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 4/23 approved changesets -- score normalized to 1
+- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install vscodium
 
 ## 流行度
 
-- **Star**: 33,223 · **Fork**: 1,862 · **开放 issue**: 1,750 · **贡献者**: 133
+- **Star**: 33,239 · **Fork**: 1,861 · **开放 issue**: 1,749 · **贡献者**: 133
 
 ## 累计统计
 
-- **发布数**: 272 · **已合并 PR**: 734 · **开放 PR**: 12 · **已关闭 issue**: 1621 · **开放 issue**: 129 · **提交数**: 1919
+- **发布数**: 272 · **已合并 PR**: 734 · **开放 PR**: 14 · **已关闭 issue**: 1622 · **开放 issue**: 127 · **提交数**: 1919
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 1 | 19 | 6 | 3 | 14 | 31 |
-| last60d | 2026-07-16 | 1 | 33 | 7 | 5 | 25 | 43 |
-| 90d | 2026-06-16 | 2 | 45 | 7 | 8 | 38 | 55 |
-| last180d | 2026-03-18 | 5 | 95 | 9 | 34 | 70 | 126 |
-| 360d | 2025-09-19 | 29 | 174 | 9 | 124 | 98 | 248 |
-| last720d | 2024-09-24 | 79 | 293 | 10 | 360 | 115 | 641 |
+| 30d | 2026-08-16 | 1 | 19 | 8 | 3 | 14 | 31 |
+| last60d | 2026-07-17 | 1 | 33 | 9 | 4 | 24 | 43 |
+| 90d | 2026-06-17 | 2 | 45 | 9 | 8 | 37 | 55 |
+| last180d | 2026-03-19 | 5 | 94 | 11 | 33 | 69 | 126 |
+| 360d | 2025-09-20 | 29 | 174 | 11 | 125 | 96 | 248 |
+| last720d | 2024-09-25 | 79 | 293 | 12 | 361 | 113 | 641 |
 
 ## Release 资产
 
@@ -241,4 +241,4 @@ vscodium 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260914.yml` · 2026-09-14T04:06:13Z._
+_数据快照: `data/card/260915.yml` · 2026-09-15T04:05:07Z._
