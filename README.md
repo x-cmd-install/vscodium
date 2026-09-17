@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,257 · **Forks**: 1,861 · **Open issues**: 1,749 · **Contributors**: 133
+- **Stars**: 33,266 · **Forks**: 1,864 · **Open issues**: 1,750 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 14 · **Closed issues**: 1622 · **Open issues**: 127 · **Commits**: 1919
+- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 19 · **Closed issues**: 1622 · **Open issues**: 128 · **Commits**: 1919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 1 | 19 | 7 | 2 | 14 | 31 |
-| last60d | 2026-07-18 | 1 | 33 | 9 | 4 | 24 | 43 |
-| 90d | 2026-06-18 | 2 | 45 | 9 | 7 | 37 | 55 |
-| last180d | 2026-03-20 | 5 | 93 | 11 | 33 | 67 | 126 |
-| 360d | 2025-09-21 | 29 | 174 | 11 | 124 | 96 | 248 |
-| last720d | 2024-09-26 | 79 | 293 | 12 | 361 | 113 | 640 |
+| 30d | 2026-08-18 | 1 | 19 | 12 | 2 | 15 | 31 |
+| last60d | 2026-07-19 | 1 | 33 | 14 | 4 | 25 | 43 |
+| 90d | 2026-06-19 | 2 | 45 | 14 | 7 | 38 | 55 |
+| last180d | 2026-03-21 | 4 | 92 | 16 | 33 | 67 | 126 |
+| 360d | 2025-09-22 | 29 | 174 | 16 | 124 | 97 | 248 |
+| last720d | 2024-09-27 | 79 | 293 | 17 | 361 | 114 | 640 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:02:17Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:09:11Z._
