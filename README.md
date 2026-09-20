@@ -4,7 +4,7 @@
 
 binary releases of VS Code without MS branding/telemetry/licensing
 
-![vscodium](https://repo.x-cmd.io/vscodium.svg)
+[![x-cmd/install — vscodium Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vscodium.svg)](https://x-cmd.com/install/vscodium)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,284 · **Forks**: 1,865 · **Open issues**: 1,750 · **Contributors**: 133
+- **Stars**: 33,312 · **Forks**: 1,865 · **Open issues**: 1,751 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 20 · **Closed issues**: 1625 · **Open issues**: 125 · **Commits**: 1919
+- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 20 · **Closed issues**: 1625 · **Open issues**: 126 · **Commits**: 1919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 19 | 13 | 2 | 15 | 31 |
-| last60d | 2026-07-20 | 1 | 33 | 15 | 4 | 24 | 43 |
-| 90d | 2026-06-20 | 2 | 45 | 15 | 7 | 38 | 55 |
-| last180d | 2026-03-22 | 4 | 92 | 17 | 33 | 67 | 126 |
-| 360d | 2025-09-23 | 29 | 173 | 17 | 125 | 93 | 248 |
-| last720d | 2024-09-28 | 79 | 293 | 18 | 364 | 111 | 640 |
+| 30d | 2026-08-21 | 1 | 19 | 13 | 2 | 15 | 31 |
+| last60d | 2026-07-22 | 1 | 30 | 15 | 4 | 25 | 43 |
+| 90d | 2026-06-22 | 2 | 45 | 15 | 7 | 38 | 55 |
+| last180d | 2026-03-24 | 4 | 92 | 17 | 32 | 68 | 126 |
+| 360d | 2025-09-25 | 29 | 173 | 17 | 125 | 94 | 248 |
+| last720d | 2024-09-30 | 79 | 293 | 18 | 363 | 112 | 640 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T03:54:50Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:08:09Z._
