@@ -4,7 +4,7 @@
 
 binary releases of VS Code without MS branding/telemetry/licensing
 
-[![x-cmd/install — vscodium Code Quality Monitoring Repo Card](https://repo.x-cmd.io/vscodium.svg)](https://x-cmd.com/install/vscodium)
+[![x-cmd/install — vscodium Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/vscodium.svg)](https://x-cmd.com/install/vscodium)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,332 · **Forks**: 1,864 · **Open issues**: 1,754 · **Contributors**: 133
+- **Stars**: 33,344 · **Forks**: 1,864 · **Open issues**: 1,754 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 20 · **Closed issues**: 1626 · **Open issues**: 128 · **Commits**: 1919
+- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 20 · **Closed issues**: 1627 · **Open issues**: 127 · **Commits**: 1919
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 19 | 13 | 3 | 17 | 26 |
-| last60d | 2026-07-24 | 1 | 30 | 15 | 5 | 27 | 37 |
-| 90d | 2026-06-24 | 2 | 45 | 15 | 8 | 40 | 55 |
-| last180d | 2026-03-26 | 4 | 90 | 17 | 32 | 70 | 116 |
-| 360d | 2025-09-27 | 28 | 173 | 17 | 122 | 96 | 242 |
-| last720d | 2024-10-02 | 79 | 293 | 18 | 363 | 113 | 640 |
+| 30d | 2026-08-24 | 1 | 19 | 13 | 3 | 17 | 26 |
+| last60d | 2026-07-25 | 1 | 27 | 15 | 5 | 27 | 37 |
+| 90d | 2026-06-25 | 2 | 45 | 15 | 8 | 40 | 55 |
+| last180d | 2026-03-27 | 4 | 88 | 17 | 32 | 70 | 116 |
+| 360d | 2025-09-28 | 28 | 173 | 17 | 122 | 95 | 242 |
+| last720d | 2024-10-03 | 79 | 293 | 18 | 364 | 112 | 640 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:02:42Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T03:59:24Z._
