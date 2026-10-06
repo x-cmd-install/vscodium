@@ -14,12 +14,12 @@ x install vscodium
 
 ## Code insight
 
-Total: **11,089** lines of code across **72** files in the top 5 languages.
+Total: **11,091** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 6,445 | 0 | 9 | 12 |
-| Sh | 3,129 | 241 | 947 | 54 |
+| Sh | 3,131 | 241 | 947 | 54 |
 | XSL | 435 | 1 | 32 | 1 |
 | Bash | 374 | 124 | 84 | 4 |
 | TypeScript | 234 | 1 | 47 | 1 |
@@ -30,7 +30,7 @@ Overall score: **5.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
+- **Code-Review** (2/10) — Found 7/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.135.06055` (2026-09-09)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-10-05
 - **Assets in release**: 162
 
 ## Popularity
 
-- **Stars**: 33,512 · **Forks**: 1,877 · **Open issues**: 1,759 · **Contributors**: 133
+- **Stars**: 33,518 · **Forks**: 1,880 · **Open issues**: 1,759 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 272 · **Merged PRs**: 734 · **Open PRs**: 28 · **Closed issues**: 1630 · **Open issues**: 129 · **Commits**: 1919
+- **Releases**: 272 · **Merged PRs**: 736 · **Open PRs**: 27 · **Closed issues**: 1630 · **Open issues**: 129 · **Commits**: 1922
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 4 | 19 | 4 | 14 | 0 |
-| last60d | 2026-08-06 | 1 | 20 | 22 | 6 | 24 | 31 |
-| 90d | 2026-07-07 | 2 | 35 | 23 | 7 | 40 | 43 |
-| last180d | 2026-04-08 | 4 | 81 | 25 | 31 | 72 | 109 |
-| 360d | 2025-10-10 | 27 | 164 | 25 | 116 | 96 | 225 |
-| last720d | 2024-10-15 | 74 | 285 | 26 | 359 | 114 | 618 |
+| 30d | 2026-09-06 | 1 | 5 | 18 | 4 | 14 | 3 |
+| last60d | 2026-08-07 | 1 | 22 | 21 | 6 | 24 | 34 |
+| 90d | 2026-07-08 | 1 | 36 | 22 | 7 | 40 | 46 |
+| last180d | 2026-04-09 | 4 | 83 | 24 | 29 | 71 | 112 |
+| 360d | 2025-10-11 | 26 | 166 | 24 | 115 | 96 | 228 |
+| last720d | 2024-10-16 | 74 | 287 | 25 | 359 | 113 | 620 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T04:48:04Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T05:35:02Z._
