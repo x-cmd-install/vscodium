@@ -14,11 +14,11 @@ x install vscodium
 
 ## Code insight
 
-Total: **11,091** lines of code across **72** files in the top 5 languages.
+Total: **11,385** lines of code across **72** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 6,445 | 0 | 9 | 12 |
+| Json | 6,739 | 0 | 9 | 12 |
 | Sh | 3,131 | 241 | 947 | 54 |
 | XSL | 435 | 1 | 32 | 1 |
 | Bash | 374 | 124 | 84 | 4 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.135.06055` (2026-09-09)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-06
 - **Assets in release**: 162
 
 ## Popularity
 
-- **Stars**: 33,518 · **Forks**: 1,880 · **Open issues**: 1,759 · **Contributors**: 133
+- **Stars**: 33,526 · **Forks**: 1,881 · **Open issues**: 1,760 · **Contributors**: 133
 
 ## Totals (cumulative)
 
-- **Releases**: 272 · **Merged PRs**: 736 · **Open PRs**: 27 · **Closed issues**: 1630 · **Open issues**: 129 · **Commits**: 1922
+- **Releases**: 272 · **Merged PRs**: 740 · **Open PRs**: 11 · **Closed issues**: 1632 · **Open issues**: 128 · **Commits**: 1923
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 5 | 18 | 4 | 14 | 3 |
-| last60d | 2026-08-07 | 1 | 22 | 21 | 6 | 24 | 34 |
-| 90d | 2026-07-08 | 1 | 36 | 22 | 7 | 40 | 46 |
-| last180d | 2026-04-09 | 4 | 83 | 24 | 29 | 71 | 112 |
-| 360d | 2025-10-11 | 26 | 166 | 24 | 115 | 96 | 228 |
-| last720d | 2024-10-16 | 74 | 287 | 25 | 359 | 113 | 620 |
+| 30d | 2026-09-07 | 1 | 7 | 4 | 4 | 15 | 4 |
+| last60d | 2026-08-08 | 1 | 26 | 6 | 6 | 24 | 35 |
+| 90d | 2026-07-09 | 1 | 39 | 7 | 7 | 41 | 47 |
+| last180d | 2026-04-10 | 4 | 86 | 9 | 29 | 72 | 113 |
+| 360d | 2025-10-12 | 26 | 169 | 9 | 115 | 96 | 229 |
+| last720d | 2024-10-17 | 74 | 291 | 10 | 359 | 112 | 621 |
 
 ## Release assets
 
@@ -241,4 +241,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T05:35:02Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:05:17Z._
