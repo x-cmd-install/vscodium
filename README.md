@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,752 · **Forks**: 1,898 · **Open issues**: 1,776 · **Contributors**: 134
+- **Stars**: 33,764 · **Forks**: 1,898 · **Open issues**: 1,778 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 273 · **Merged PRs**: 746 · **Open PRs**: 13 · **Closed issues**: 1639 · **Open issues**: 137 · **Commits**: 1942
+- **Releases**: 273 · **Merged PRs**: 746 · **Open PRs**: 13 · **Closed issues**: 1641 · **Open issues**: 137 · **Commits**: 1942
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 10 | 4 | 4 | 19 | 19 |
-| last60d | 2026-08-23 | 2 | 32 | 7 | 7 | 36 | 51 |
-| 90d | 2026-07-24 | 2 | 43 | 9 | 9 | 46 | 57 |
-| last180d | 2026-04-25 | 5 | 84 | 11 | 29 | 83 | 106 |
-| 360d | 2025-10-27 | 22 | 166 | 11 | 105 | 106 | 233 |
-| last720d | 2024-11-01 | 75 | 291 | 12 | 360 | 123 | 622 |
+| 30d | 2026-09-23 | 1 | 10 | 4 | 3 | 21 | 19 |
+| last60d | 2026-08-24 | 2 | 32 | 7 | 7 | 38 | 51 |
+| 90d | 2026-07-25 | 2 | 40 | 9 | 9 | 48 | 57 |
+| last180d | 2026-04-26 | 5 | 82 | 11 | 28 | 85 | 106 |
+| 360d | 2025-10-28 | 22 | 166 | 11 | 106 | 107 | 233 |
+| last720d | 2024-11-02 | 75 | 290 | 12 | 361 | 123 | 622 |
 
 ## Release assets
 
@@ -250,6 +250,15 @@ Lowest-scoring checks:
 | [VSCodiumUserSetup-x64-1.140.06880.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe.sha1) | 80 B | `other` |
 | [VSCodiumUserSetup-x64-1.140.06880.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe.sha256) | 104 B | `other` |
 
+## Distribution status
+
+Reported by **61** distros on [repology.org](https://repology.org/project/vscodium). **20** are ✅ on the latest upstream release, **33** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.140.06880` | ✅ latest |
+| Alpine edge | `1.110.11631` | ⚠️ outdated |
+
 ## Improve this data
 
 Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `vscodium` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -259,4 +268,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T03:55:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T03:59:01Z._
