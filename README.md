@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,792 · **Forks**: 1,894 · **Open issues**: 1,778 · **Contributors**: 134
+- **Stars**: 33,805 · **Forks**: 1,897 · **Open issues**: 1,778 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 273 · **Merged PRs**: 749 · **Open PRs**: 15 · **Closed issues**: 1642 · **Open issues**: 136 · **Commits**: 1942
+- **Releases**: 273 · **Merged PRs**: 750 · **Open PRs**: 14 · **Closed issues**: 1643 · **Open issues**: 135 · **Commits**: 1942
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 1 | 13 | 6 | 3 | 21 | 19 |
-| last60d | 2026-08-26 | 2 | 33 | 9 | 7 | 36 | 51 |
-| 90d | 2026-07-27 | 2 | 43 | 11 | 9 | 48 | 57 |
-| last180d | 2026-04-28 | 4 | 82 | 13 | 28 | 82 | 106 |
-| 360d | 2025-10-30 | 22 | 169 | 13 | 106 | 107 | 233 |
-| last720d | 2024-11-04 | 74 | 289 | 14 | 359 | 122 | 616 |
+| 30d | 2026-09-26 | 1 | 14 | 5 | 3 | 21 | 19 |
+| last60d | 2026-08-27 | 2 | 29 | 8 | 7 | 35 | 37 |
+| 90d | 2026-07-28 | 2 | 44 | 10 | 9 | 48 | 55 |
+| last180d | 2026-04-29 | 4 | 83 | 12 | 29 | 79 | 102 |
+| 360d | 2025-10-31 | 22 | 170 | 12 | 106 | 106 | 232 |
+| last720d | 2024-11-05 | 74 | 289 | 13 | 359 | 121 | 612 |
 
 ## Release assets
 
@@ -252,7 +252,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **61** distros on [repology.org](https://repology.org/project/vscodium). **21** are ✅ on the latest upstream release, **31** are ⚠️ on an older version.
+Reported by **61** distros on [repology.org](https://repology.org/project/vscodium). **22** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -268,4 +268,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T03:52:09Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T03:56:28Z._
