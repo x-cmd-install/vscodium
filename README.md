@@ -14,12 +14,12 @@ x install vscodium
 
 ## Code insight
 
-Total: **11,426** lines of code across **72** files in the top 5 languages.
+Total: **11,402** lines of code across **73** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 6,794 | 0 | 9 | 12 |
-| Sh | 3,117 | 241 | 943 | 54 |
+| Json | 6,752 | 0 | 9 | 12 |
+| Sh | 3,135 | 242 | 951 | 55 |
 | XSL | 435 | 1 | 32 | 1 |
 | Bash | 374 | 124 | 84 | 4 |
 | TypeScript | 234 | 1 | 47 | 1 |
@@ -42,221 +42,221 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `1.140.06880` (2026-10-13)
-- **Last commit**: 2026-10-13
+- **Latest**: `1.143.17183` (2026-10-26)
+- **Last commit**: 2026-10-26
 - **Assets in release**: 180
 
 ## Popularity
 
-- **Stars**: 33,805 · **Forks**: 1,897 · **Open issues**: 1,778 · **Contributors**: 134
+- **Stars**: 33,817 · **Forks**: 1,900 · **Open issues**: 1,780 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 273 · **Merged PRs**: 750 · **Open PRs**: 14 · **Closed issues**: 1643 · **Open issues**: 135 · **Commits**: 1942
+- **Releases**: 274 · **Merged PRs**: 750 · **Open PRs**: 14 · **Closed issues**: 1646 · **Open issues**: 134 · **Commits**: 1949
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 14 | 5 | 3 | 21 | 19 |
-| last60d | 2026-08-27 | 2 | 29 | 8 | 7 | 35 | 37 |
-| 90d | 2026-07-28 | 2 | 44 | 10 | 9 | 48 | 55 |
-| last180d | 2026-04-29 | 4 | 83 | 12 | 29 | 79 | 102 |
-| 360d | 2025-10-31 | 22 | 170 | 12 | 106 | 106 | 232 |
-| last720d | 2024-11-05 | 74 | 289 | 13 | 359 | 121 | 612 |
+| 30d | 2026-09-27 | 2 | 14 | 4 | 5 | 21 | 26 |
+| last60d | 2026-08-28 | 3 | 28 | 8 | 9 | 35 | 44 |
+| 90d | 2026-07-29 | 3 | 42 | 10 | 11 | 48 | 62 |
+| last180d | 2026-04-30 | 5 | 83 | 12 | 28 | 79 | 109 |
+| 360d | 2025-11-01 | 23 | 170 | 12 | 108 | 106 | 239 |
+| last720d | 2024-11-06 | 75 | 288 | 13 | 361 | 120 | 611 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [codium-1.140.06880-el8.aarch64.rpm](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.aarch64.rpm) | 200.7 MiB | `runtime/rpm/aarch64` |
-| [codium-1.140.06880-el8.aarch64.rpm.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.aarch64.rpm.sha1) | 77 B | `other` |
-| [codium-1.140.06880-el8.aarch64.rpm.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.aarch64.rpm.sha256) | 101 B | `other` |
-| [codium-1.140.06880-el8.ppc64le.rpm](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.ppc64le.rpm) | 211.4 MiB | `runtime/rpm/ppc64le` |
-| [codium-1.140.06880-el8.ppc64le.rpm.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.ppc64le.rpm.sha1) | 77 B | `other` |
-| [codium-1.140.06880-el8.ppc64le.rpm.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.ppc64le.rpm.sha256) | 101 B | `other` |
-| [codium-1.140.06880-el8.x86_64.rpm](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.x86_64.rpm) | 204.0 MiB | `runtime/rpm/x86_64` |
-| [codium-1.140.06880-el8.x86_64.rpm.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.x86_64.rpm.sha1) | 76 B | `other` |
-| [codium-1.140.06880-el8.x86_64.rpm.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium-1.140.06880-el8.x86_64.rpm.sha256) | 100 B | `other` |
-| [codium_1.140.06880_amd64.deb](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_amd64.deb) | 143.7 MiB | `runtime/deb/amd64` |
-| [codium_1.140.06880_amd64.deb.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_amd64.deb.sha1) | 71 B | `other` |
-| [codium_1.140.06880_amd64.deb.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_amd64.deb.sha256) | 95 B | `other` |
-| [codium_1.140.06880_arm64.deb](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_arm64.deb) | 135.2 MiB | `runtime/deb/arm64` |
-| [codium_1.140.06880_arm64.deb.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_arm64.deb.sha1) | 71 B | `other` |
-| [codium_1.140.06880_arm64.deb.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_arm64.deb.sha256) | 95 B | `other` |
-| [codium_1.140.06880_ppc64el.deb](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_ppc64el.deb) | 138.3 MiB | `runtime/deb/ppc64el` |
-| [codium_1.140.06880_ppc64el.deb.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_ppc64el.deb.sha1) | 73 B | `other` |
-| [codium_1.140.06880_ppc64el.deb.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/codium_1.140.06880_ppc64el.deb.sha256) | 97 B | `other` |
-| [VSCodium-1.140.06880-anylinux-aarch64.AppImage](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-aarch64.AppImage) | 177.6 MiB | `native/linux/arm64` |
-| [VSCodium-1.140.06880-anylinux-aarch64.AppImage.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-aarch64.AppImage.sha1) | 89 B | `native/linux/arm64` |
-| [VSCodium-1.140.06880-anylinux-aarch64.AppImage.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-aarch64.AppImage.sha256) | 113 B | `native/linux/arm64` |
-| [VSCodium-1.140.06880-anylinux-aarch64.AppImage.zsync](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-aarch64.AppImage.zsync) | 311.0 KiB | `native/linux/arm64` |
-| [VSCodium-1.140.06880-anylinux-aarch64.AppImage.zsync.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-aarch64.AppImage.zsync.sha1) | 95 B | `native/linux/arm64` |
-| [VSCodium-1.140.06880-anylinux-aarch64.AppImage.zsync.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-aarch64.AppImage.zsync.sha256) | 119 B | `native/linux/arm64` |
-| [VSCodium-1.140.06880-anylinux-x86_64.AppImage](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-x86_64.AppImage) | 184.5 MiB | `native/linux/x64` |
-| [VSCodium-1.140.06880-anylinux-x86_64.AppImage.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-x86_64.AppImage.sha1) | 88 B | `native/linux/x64` |
-| [VSCodium-1.140.06880-anylinux-x86_64.AppImage.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-x86_64.AppImage.sha256) | 112 B | `native/linux/x64` |
-| [VSCodium-1.140.06880-anylinux-x86_64.AppImage.zsync](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-x86_64.AppImage.zsync) | 323.1 KiB | `native/linux/x64` |
-| [VSCodium-1.140.06880-anylinux-x86_64.AppImage.zsync.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-x86_64.AppImage.zsync.sha1) | 94 B | `native/linux/x64` |
-| [VSCodium-1.140.06880-anylinux-x86_64.AppImage.zsync.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-anylinux-x86_64.AppImage.zsync.sha256) | 118 B | `native/linux/x64` |
-| [VSCodium-1.140.06880-src.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-src.tar.gz) | 10.6 MiB | `native/unknown` |
-| [VSCodium-1.140.06880-src.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-src.tar.gz.sha1) | 74 B | `other` |
-| [VSCodium-1.140.06880-src.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-src.tar.gz.sha256) | 98 B | `other` |
-| [VSCodium-1.140.06880-src.zip](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-src.zip) | 10.7 MiB | `other` |
-| [VSCodium-1.140.06880-src.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-src.zip.sha1) | 71 B | `other` |
-| [VSCodium-1.140.06880-src.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-1.140.06880-src.zip.sha256) | 95 B | `other` |
-| [vscodium-cli-darwin-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-darwin-arm64-1.140.06880.tar.gz) | 8.4 MiB | `native/darwin/arm64` |
-| [vscodium-cli-darwin-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-darwin-arm64-1.140.06880.tar.gz.sha1) | 87 B | `native/darwin/arm64` |
-| [vscodium-cli-darwin-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-darwin-arm64-1.140.06880.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
-| [vscodium-cli-darwin-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-darwin-x64-1.140.06880.tar.gz) | 9.1 MiB | `native/darwin/x64` |
-| [vscodium-cli-darwin-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-darwin-x64-1.140.06880.tar.gz.sha1) | 85 B | `native/darwin/x64` |
-| [vscodium-cli-darwin-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-darwin-x64-1.140.06880.tar.gz.sha256) | 109 B | `native/darwin/x64` |
-| [vscodium-cli-linux-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-arm64-1.140.06880.tar.gz) | 10.9 MiB | `native/linux/arm64` |
-| [vscodium-cli-linux-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-arm64-1.140.06880.tar.gz.sha1) | 86 B | `native/linux/arm64` |
-| [vscodium-cli-linux-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-arm64-1.140.06880.tar.gz.sha256) | 110 B | `native/linux/arm64` |
-| [vscodium-cli-linux-ppc64le-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-ppc64le-1.140.06880.tar.gz) | 9.9 MiB | `native/unknown` |
-| [vscodium-cli-linux-ppc64le-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-ppc64le-1.140.06880.tar.gz.sha1) | 88 B | `other` |
-| [vscodium-cli-linux-ppc64le-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-ppc64le-1.140.06880.tar.gz.sha256) | 112 B | `other` |
-| [vscodium-cli-linux-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-x64-1.140.06880.tar.gz) | 11.5 MiB | `native/unknown` |
-| [vscodium-cli-linux-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-x64-1.140.06880.tar.gz.sha1) | 84 B | `other` |
-| [vscodium-cli-linux-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-linux-x64-1.140.06880.tar.gz.sha256) | 108 B | `other` |
-| [vscodium-cli-win32-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-win32-arm64-1.140.06880.tar.gz) | 8.8 MiB | `native/win/arm64` |
-| [vscodium-cli-win32-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-win32-arm64-1.140.06880.tar.gz.sha1) | 86 B | `native/win/arm64` |
-| [vscodium-cli-win32-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-win32-arm64-1.140.06880.tar.gz.sha256) | 110 B | `native/win/arm64` |
-| [vscodium-cli-win32-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-win32-x64-1.140.06880.tar.gz) | 9.8 MiB | `native/win/x64` |
-| [vscodium-cli-win32-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-win32-x64-1.140.06880.tar.gz.sha1) | 84 B | `native/win/x64` |
-| [vscodium-cli-win32-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-cli-win32-x64-1.140.06880.tar.gz.sha256) | 108 B | `native/win/x64` |
-| [VSCodium-darwin-arm64-1.140.06880.zip](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-darwin-arm64-1.140.06880.zip) | 196.5 MiB | `native/darwin/arm64` |
-| [VSCodium-darwin-arm64-1.140.06880.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-darwin-arm64-1.140.06880.zip.sha1) | 80 B | `native/darwin/arm64` |
-| [VSCodium-darwin-arm64-1.140.06880.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-darwin-arm64-1.140.06880.zip.sha256) | 104 B | `native/darwin/arm64` |
-| [VSCodium-darwin-x64-1.140.06880.zip](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-darwin-x64-1.140.06880.zip) | 203.6 MiB | `native/darwin/x64` |
-| [VSCodium-darwin-x64-1.140.06880.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-darwin-x64-1.140.06880.zip.sha1) | 78 B | `native/darwin/x64` |
-| [VSCodium-darwin-x64-1.140.06880.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-darwin-x64-1.140.06880.zip.sha256) | 102 B | `native/darwin/x64` |
-| [VSCodium-linux-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-arm64-1.140.06880.tar.gz) | 199.2 MiB | `native/linux/arm64` |
-| [VSCodium-linux-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-arm64-1.140.06880.tar.gz.sha1) | 82 B | `native/linux/arm64` |
-| [VSCodium-linux-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-arm64-1.140.06880.tar.gz.sha256) | 106 B | `native/linux/arm64` |
-| [VSCodium-linux-loong64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-loong64-1.140.06880.tar.gz) | 203.9 MiB | `native/unknown` |
-| [VSCodium-linux-loong64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-loong64-1.140.06880.tar.gz.sha1) | 84 B | `other` |
-| [VSCodium-linux-loong64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-loong64-1.140.06880.tar.gz.sha256) | 108 B | `other` |
-| [VSCodium-linux-ppc64le-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-ppc64le-1.140.06880.tar.gz) | 210.3 MiB | `native/unknown` |
-| [VSCodium-linux-ppc64le-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-ppc64le-1.140.06880.tar.gz.sha1) | 84 B | `other` |
-| [VSCodium-linux-ppc64le-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-ppc64le-1.140.06880.tar.gz.sha256) | 108 B | `other` |
-| [VSCodium-linux-riscv64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-riscv64-1.140.06880.tar.gz) | 200.5 MiB | `native/linux/riscv64` |
-| [VSCodium-linux-riscv64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-riscv64-1.140.06880.tar.gz.sha1) | 84 B | `native/linux/riscv64` |
-| [VSCodium-linux-riscv64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-riscv64-1.140.06880.tar.gz.sha256) | 108 B | `native/linux/riscv64` |
-| [VSCodium-linux-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-x64-1.140.06880.tar.gz) | 202.7 MiB | `native/unknown` |
-| [VSCodium-linux-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-x64-1.140.06880.tar.gz.sha1) | 80 B | `other` |
-| [VSCodium-linux-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-linux-x64-1.140.06880.tar.gz.sha256) | 104 B | `other` |
-| [vscodium-reh-alpine-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-alpine-arm64-1.140.06880.tar.gz) | 84.4 MiB | `native/linux/arm64` |
-| [vscodium-reh-alpine-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-alpine-arm64-1.140.06880.tar.gz.sha1) | 87 B | `other` |
-| [vscodium-reh-alpine-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-alpine-arm64-1.140.06880.tar.gz.sha256) | 111 B | `other` |
-| [vscodium-reh-alpine-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-alpine-x64-1.140.06880.tar.gz) | 86.5 MiB | `native/unknown` |
-| [vscodium-reh-alpine-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-alpine-x64-1.140.06880.tar.gz.sha1) | 85 B | `other` |
-| [vscodium-reh-alpine-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-alpine-x64-1.140.06880.tar.gz.sha256) | 109 B | `other` |
-| [vscodium-reh-darwin-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-darwin-arm64-1.140.06880.tar.gz) | 78.7 MiB | `native/darwin/arm64` |
-| [vscodium-reh-darwin-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-darwin-arm64-1.140.06880.tar.gz.sha1) | 87 B | `native/darwin/arm64` |
-| [vscodium-reh-darwin-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-darwin-arm64-1.140.06880.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
-| [vscodium-reh-darwin-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-darwin-x64-1.140.06880.tar.gz) | 80.3 MiB | `native/darwin/x64` |
-| [vscodium-reh-darwin-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-darwin-x64-1.140.06880.tar.gz.sha1) | 85 B | `native/darwin/x64` |
-| [vscodium-reh-darwin-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-darwin-x64-1.140.06880.tar.gz.sha256) | 109 B | `native/darwin/x64` |
-| [vscodium-reh-linux-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-arm64-1.140.06880.tar.gz) | 82.2 MiB | `native/linux/arm64` |
-| [vscodium-reh-linux-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-arm64-1.140.06880.tar.gz.sha1) | 86 B | `native/linux/arm64` |
-| [vscodium-reh-linux-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-arm64-1.140.06880.tar.gz.sha256) | 110 B | `native/linux/arm64` |
-| [vscodium-reh-linux-armhf-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-armhf-1.140.06880.tar.gz) | 81.4 MiB | `native/linux/arm` |
-| [vscodium-reh-linux-armhf-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-armhf-1.140.06880.tar.gz.sha1) | 86 B | `native/linux/arm` |
-| [vscodium-reh-linux-armhf-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-armhf-1.140.06880.tar.gz.sha256) | 110 B | `native/linux/arm` |
-| [vscodium-reh-linux-loong64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-loong64-1.140.06880.tar.gz) | 82.8 MiB | `native/unknown` |
-| [vscodium-reh-linux-loong64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-loong64-1.140.06880.tar.gz.sha1) | 88 B | `other` |
-| [vscodium-reh-linux-loong64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-loong64-1.140.06880.tar.gz.sha256) | 112 B | `other` |
-| [vscodium-reh-linux-ppc64le-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-ppc64le-1.140.06880.tar.gz) | 85.6 MiB | `native/unknown` |
-| [vscodium-reh-linux-ppc64le-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-ppc64le-1.140.06880.tar.gz.sha1) | 88 B | `other` |
-| [vscodium-reh-linux-ppc64le-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-ppc64le-1.140.06880.tar.gz.sha256) | 112 B | `other` |
-| [vscodium-reh-linux-riscv64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-riscv64-1.140.06880.tar.gz) | 76.9 MiB | `native/linux/riscv64` |
-| [vscodium-reh-linux-riscv64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-riscv64-1.140.06880.tar.gz.sha1) | 88 B | `native/linux/riscv64` |
-| [vscodium-reh-linux-riscv64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-riscv64-1.140.06880.tar.gz.sha256) | 112 B | `native/linux/riscv64` |
-| [vscodium-reh-linux-s390x-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-s390x-1.140.06880.tar.gz) | 82.0 MiB | `native/unknown` |
-| [vscodium-reh-linux-s390x-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-s390x-1.140.06880.tar.gz.sha1) | 86 B | `other` |
-| [vscodium-reh-linux-s390x-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-s390x-1.140.06880.tar.gz.sha256) | 110 B | `other` |
-| [vscodium-reh-linux-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-x64-1.140.06880.tar.gz) | 84.6 MiB | `native/unknown` |
-| [vscodium-reh-linux-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-x64-1.140.06880.tar.gz.sha1) | 84 B | `other` |
-| [vscodium-reh-linux-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-linux-x64-1.140.06880.tar.gz.sha256) | 108 B | `other` |
-| [vscodium-reh-web-alpine-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-alpine-arm64-1.140.06880.tar.gz) | 96.2 MiB | `native/linux/arm64` |
-| [vscodium-reh-web-alpine-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-alpine-arm64-1.140.06880.tar.gz.sha1) | 91 B | `other` |
-| [vscodium-reh-web-alpine-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-alpine-arm64-1.140.06880.tar.gz.sha256) | 115 B | `other` |
-| [vscodium-reh-web-alpine-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-alpine-x64-1.140.06880.tar.gz) | 98.4 MiB | `native/unknown` |
-| [vscodium-reh-web-alpine-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-alpine-x64-1.140.06880.tar.gz.sha1) | 89 B | `other` |
-| [vscodium-reh-web-alpine-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-alpine-x64-1.140.06880.tar.gz.sha256) | 113 B | `other` |
-| [vscodium-reh-web-darwin-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-darwin-arm64-1.140.06880.tar.gz) | 90.5 MiB | `native/darwin/arm64` |
-| [vscodium-reh-web-darwin-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-darwin-arm64-1.140.06880.tar.gz.sha1) | 91 B | `native/darwin/arm64` |
-| [vscodium-reh-web-darwin-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-darwin-arm64-1.140.06880.tar.gz.sha256) | 115 B | `native/darwin/arm64` |
-| [vscodium-reh-web-darwin-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-darwin-x64-1.140.06880.tar.gz) | 92.1 MiB | `native/darwin/x64` |
-| [vscodium-reh-web-darwin-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-darwin-x64-1.140.06880.tar.gz.sha1) | 89 B | `native/darwin/x64` |
-| [vscodium-reh-web-darwin-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-darwin-x64-1.140.06880.tar.gz.sha256) | 113 B | `native/darwin/x64` |
-| [vscodium-reh-web-linux-arm64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-arm64-1.140.06880.tar.gz) | 94.1 MiB | `native/linux/arm64` |
-| [vscodium-reh-web-linux-arm64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-arm64-1.140.06880.tar.gz.sha1) | 90 B | `native/linux/arm64` |
-| [vscodium-reh-web-linux-arm64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-arm64-1.140.06880.tar.gz.sha256) | 114 B | `native/linux/arm64` |
-| [vscodium-reh-web-linux-armhf-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-armhf-1.140.06880.tar.gz) | 93.3 MiB | `native/linux/arm` |
-| [vscodium-reh-web-linux-armhf-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-armhf-1.140.06880.tar.gz.sha1) | 90 B | `native/linux/arm` |
-| [vscodium-reh-web-linux-armhf-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-armhf-1.140.06880.tar.gz.sha256) | 114 B | `native/linux/arm` |
-| [vscodium-reh-web-linux-loong64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-loong64-1.140.06880.tar.gz) | 94.7 MiB | `native/unknown` |
-| [vscodium-reh-web-linux-loong64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-loong64-1.140.06880.tar.gz.sha1) | 92 B | `other` |
-| [vscodium-reh-web-linux-loong64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-loong64-1.140.06880.tar.gz.sha256) | 116 B | `other` |
-| [vscodium-reh-web-linux-ppc64le-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-ppc64le-1.140.06880.tar.gz) | 97.5 MiB | `native/unknown` |
-| [vscodium-reh-web-linux-ppc64le-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-ppc64le-1.140.06880.tar.gz.sha1) | 92 B | `other` |
-| [vscodium-reh-web-linux-ppc64le-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-ppc64le-1.140.06880.tar.gz.sha256) | 116 B | `other` |
-| [vscodium-reh-web-linux-riscv64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-riscv64-1.140.06880.tar.gz) | 88.8 MiB | `native/linux/riscv64` |
-| [vscodium-reh-web-linux-riscv64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-riscv64-1.140.06880.tar.gz.sha1) | 92 B | `native/linux/riscv64` |
-| [vscodium-reh-web-linux-riscv64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-riscv64-1.140.06880.tar.gz.sha256) | 116 B | `native/linux/riscv64` |
-| [vscodium-reh-web-linux-s390x-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-s390x-1.140.06880.tar.gz) | 93.9 MiB | `native/unknown` |
-| [vscodium-reh-web-linux-s390x-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-s390x-1.140.06880.tar.gz.sha1) | 90 B | `other` |
-| [vscodium-reh-web-linux-s390x-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-s390x-1.140.06880.tar.gz.sha256) | 114 B | `other` |
-| [vscodium-reh-web-linux-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-x64-1.140.06880.tar.gz) | 96.4 MiB | `native/unknown` |
-| [vscodium-reh-web-linux-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-x64-1.140.06880.tar.gz.sha1) | 88 B | `other` |
-| [vscodium-reh-web-linux-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-linux-x64-1.140.06880.tar.gz.sha256) | 112 B | `other` |
-| [vscodium-reh-web-win32-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-win32-x64-1.140.06880.tar.gz) | 89.7 MiB | `native/win/x64` |
-| [vscodium-reh-web-win32-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-win32-x64-1.140.06880.tar.gz.sha1) | 88 B | `native/win/x64` |
-| [vscodium-reh-web-win32-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-web-win32-x64-1.140.06880.tar.gz.sha256) | 112 B | `native/win/x64` |
-| [vscodium-reh-win32-x64-1.140.06880.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-win32-x64-1.140.06880.tar.gz) | 77.8 MiB | `native/win/x64` |
-| [vscodium-reh-win32-x64-1.140.06880.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-win32-x64-1.140.06880.tar.gz.sha1) | 84 B | `native/win/x64` |
-| [vscodium-reh-win32-x64-1.140.06880.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/vscodium-reh-win32-x64-1.140.06880.tar.gz.sha256) | 108 B | `native/win/x64` |
-| [VSCodium-win32-arm64-1.140.06880.zip](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-win32-arm64-1.140.06880.zip) | 211.5 MiB | `native/win/arm64` |
-| [VSCodium-win32-arm64-1.140.06880.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-win32-arm64-1.140.06880.zip.sha1) | 79 B | `native/win/arm64` |
-| [VSCodium-win32-arm64-1.140.06880.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-win32-arm64-1.140.06880.zip.sha256) | 103 B | `native/win/arm64` |
-| [VSCodium-win32-x64-1.140.06880.zip](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-win32-x64-1.140.06880.zip) | 218.4 MiB | `native/win/x64` |
-| [VSCodium-win32-x64-1.140.06880.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-win32-x64-1.140.06880.zip.sha1) | 77 B | `native/win/x64` |
-| [VSCodium-win32-x64-1.140.06880.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-win32-x64-1.140.06880.zip.sha256) | 101 B | `native/win/x64` |
-| [VSCodium-x64-1.140.06880.msi](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-x64-1.140.06880.msi) | 175.7 MiB | `other` |
-| [VSCodium-x64-1.140.06880.msi.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-x64-1.140.06880.msi.sha1) | 71 B | `other` |
-| [VSCodium-x64-1.140.06880.msi.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-x64-1.140.06880.msi.sha256) | 95 B | `other` |
-| [VSCodium-x64-updates-disabled-1.140.06880.msi](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-x64-updates-disabled-1.140.06880.msi) | 175.7 MiB | `other` |
-| [VSCodium-x64-updates-disabled-1.140.06880.msi.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-x64-updates-disabled-1.140.06880.msi.sha1) | 88 B | `other` |
-| [VSCodium-x64-updates-disabled-1.140.06880.msi.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium-x64-updates-disabled-1.140.06880.msi.sha256) | 112 B | `other` |
-| [VSCodium.arm64.1.140.06880.dmg](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium.arm64.1.140.06880.dmg) | 195.1 MiB | `other` |
-| [VSCodium.arm64.1.140.06880.dmg.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium.arm64.1.140.06880.dmg.sha1) | 73 B | `other` |
-| [VSCodium.arm64.1.140.06880.dmg.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium.arm64.1.140.06880.dmg.sha256) | 97 B | `other` |
-| [VSCodium.x64.1.140.06880.dmg](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium.x64.1.140.06880.dmg) | 201.8 MiB | `other` |
-| [VSCodium.x64.1.140.06880.dmg.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium.x64.1.140.06880.dmg.sha1) | 71 B | `other` |
-| [VSCodium.x64.1.140.06880.dmg.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodium.x64.1.140.06880.dmg.sha256) | 95 B | `other` |
-| [VSCodiumSetup-arm64-1.140.06880.exe](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumSetup-arm64-1.140.06880.exe) | 146.4 MiB | `other` |
-| [VSCodiumSetup-arm64-1.140.06880.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumSetup-arm64-1.140.06880.exe.sha1) | 78 B | `other` |
-| [VSCodiumSetup-arm64-1.140.06880.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumSetup-arm64-1.140.06880.exe.sha256) | 102 B | `other` |
-| [VSCodiumSetup-x64-1.140.06880.exe](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumSetup-x64-1.140.06880.exe) | 155.1 MiB | `other` |
-| [VSCodiumSetup-x64-1.140.06880.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumSetup-x64-1.140.06880.exe.sha1) | 76 B | `other` |
-| [VSCodiumSetup-x64-1.140.06880.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumSetup-x64-1.140.06880.exe.sha256) | 100 B | `other` |
-| [VSCodiumUserSetup-arm64-1.140.06880.exe](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-arm64-1.140.06880.exe) | 146.4 MiB | `other` |
-| [VSCodiumUserSetup-arm64-1.140.06880.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-arm64-1.140.06880.exe.sha1) | 82 B | `other` |
-| [VSCodiumUserSetup-arm64-1.140.06880.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-arm64-1.140.06880.exe.sha256) | 106 B | `other` |
-| [VSCodiumUserSetup-x64-1.140.06880.exe](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe) | 155.1 MiB | `other` |
-| [VSCodiumUserSetup-x64-1.140.06880.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe.sha1) | 80 B | `other` |
-| [VSCodiumUserSetup-x64-1.140.06880.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.140.06880/VSCodiumUserSetup-x64-1.140.06880.exe.sha256) | 104 B | `other` |
+| [codium-1.143.17183-el8.aarch64.rpm](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.aarch64.rpm) | 202.8 MiB | `runtime/rpm/aarch64` |
+| [codium-1.143.17183-el8.aarch64.rpm.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.aarch64.rpm.sha1) | 77 B | `other` |
+| [codium-1.143.17183-el8.aarch64.rpm.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.aarch64.rpm.sha256) | 101 B | `other` |
+| [codium-1.143.17183-el8.ppc64le.rpm](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.ppc64le.rpm) | 213.5 MiB | `runtime/rpm/ppc64le` |
+| [codium-1.143.17183-el8.ppc64le.rpm.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.ppc64le.rpm.sha1) | 77 B | `other` |
+| [codium-1.143.17183-el8.ppc64le.rpm.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.ppc64le.rpm.sha256) | 101 B | `other` |
+| [codium-1.143.17183-el8.x86_64.rpm](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.x86_64.rpm) | 206.2 MiB | `runtime/rpm/x86_64` |
+| [codium-1.143.17183-el8.x86_64.rpm.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.x86_64.rpm.sha1) | 76 B | `other` |
+| [codium-1.143.17183-el8.x86_64.rpm.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium-1.143.17183-el8.x86_64.rpm.sha256) | 100 B | `other` |
+| [codium_1.143.17183_amd64.deb](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_amd64.deb) | 145.0 MiB | `runtime/deb/amd64` |
+| [codium_1.143.17183_amd64.deb.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_amd64.deb.sha1) | 71 B | `other` |
+| [codium_1.143.17183_amd64.deb.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_amd64.deb.sha256) | 95 B | `other` |
+| [codium_1.143.17183_arm64.deb](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_arm64.deb) | 136.6 MiB | `runtime/deb/arm64` |
+| [codium_1.143.17183_arm64.deb.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_arm64.deb.sha1) | 71 B | `other` |
+| [codium_1.143.17183_arm64.deb.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_arm64.deb.sha256) | 95 B | `other` |
+| [codium_1.143.17183_ppc64el.deb](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_ppc64el.deb) | 139.6 MiB | `runtime/deb/ppc64el` |
+| [codium_1.143.17183_ppc64el.deb.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_ppc64el.deb.sha1) | 73 B | `other` |
+| [codium_1.143.17183_ppc64el.deb.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/codium_1.143.17183_ppc64el.deb.sha256) | 97 B | `other` |
+| [VSCodium-1.143.17183-anylinux-aarch64.AppImage](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-aarch64.AppImage) | 178.4 MiB | `native/linux/arm64` |
+| [VSCodium-1.143.17183-anylinux-aarch64.AppImage.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-aarch64.AppImage.sha1) | 89 B | `native/linux/arm64` |
+| [VSCodium-1.143.17183-anylinux-aarch64.AppImage.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-aarch64.AppImage.sha256) | 113 B | `native/linux/arm64` |
+| [VSCodium-1.143.17183-anylinux-aarch64.AppImage.zsync](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-aarch64.AppImage.zsync) | 312.5 KiB | `native/linux/arm64` |
+| [VSCodium-1.143.17183-anylinux-aarch64.AppImage.zsync.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-aarch64.AppImage.zsync.sha1) | 95 B | `native/linux/arm64` |
+| [VSCodium-1.143.17183-anylinux-aarch64.AppImage.zsync.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-aarch64.AppImage.zsync.sha256) | 119 B | `native/linux/arm64` |
+| [VSCodium-1.143.17183-anylinux-x86_64.AppImage](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-x86_64.AppImage) | 185.5 MiB | `native/linux/x64` |
+| [VSCodium-1.143.17183-anylinux-x86_64.AppImage.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-x86_64.AppImage.sha1) | 88 B | `native/linux/x64` |
+| [VSCodium-1.143.17183-anylinux-x86_64.AppImage.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-x86_64.AppImage.sha256) | 112 B | `native/linux/x64` |
+| [VSCodium-1.143.17183-anylinux-x86_64.AppImage.zsync](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-x86_64.AppImage.zsync) | 324.8 KiB | `native/linux/x64` |
+| [VSCodium-1.143.17183-anylinux-x86_64.AppImage.zsync.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-x86_64.AppImage.zsync.sha1) | 94 B | `native/linux/x64` |
+| [VSCodium-1.143.17183-anylinux-x86_64.AppImage.zsync.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-anylinux-x86_64.AppImage.zsync.sha256) | 118 B | `native/linux/x64` |
+| [VSCodium-1.143.17183-src.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-src.tar.gz) | 10.6 MiB | `native/unknown` |
+| [VSCodium-1.143.17183-src.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-src.tar.gz.sha1) | 74 B | `other` |
+| [VSCodium-1.143.17183-src.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-src.tar.gz.sha256) | 98 B | `other` |
+| [VSCodium-1.143.17183-src.zip](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-src.zip) | 10.7 MiB | `other` |
+| [VSCodium-1.143.17183-src.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-src.zip.sha1) | 71 B | `other` |
+| [VSCodium-1.143.17183-src.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-1.143.17183-src.zip.sha256) | 95 B | `other` |
+| [vscodium-cli-darwin-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-darwin-arm64-1.143.17183.tar.gz) | 8.5 MiB | `native/darwin/arm64` |
+| [vscodium-cli-darwin-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-darwin-arm64-1.143.17183.tar.gz.sha1) | 87 B | `native/darwin/arm64` |
+| [vscodium-cli-darwin-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-darwin-arm64-1.143.17183.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
+| [vscodium-cli-darwin-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-darwin-x64-1.143.17183.tar.gz) | 9.3 MiB | `native/darwin/x64` |
+| [vscodium-cli-darwin-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-darwin-x64-1.143.17183.tar.gz.sha1) | 85 B | `native/darwin/x64` |
+| [vscodium-cli-darwin-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-darwin-x64-1.143.17183.tar.gz.sha256) | 109 B | `native/darwin/x64` |
+| [vscodium-cli-linux-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-arm64-1.143.17183.tar.gz) | 11.0 MiB | `native/linux/arm64` |
+| [vscodium-cli-linux-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-arm64-1.143.17183.tar.gz.sha1) | 86 B | `native/linux/arm64` |
+| [vscodium-cli-linux-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-arm64-1.143.17183.tar.gz.sha256) | 110 B | `native/linux/arm64` |
+| [vscodium-cli-linux-ppc64le-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-ppc64le-1.143.17183.tar.gz) | 10.1 MiB | `native/unknown` |
+| [vscodium-cli-linux-ppc64le-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-ppc64le-1.143.17183.tar.gz.sha1) | 88 B | `other` |
+| [vscodium-cli-linux-ppc64le-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-ppc64le-1.143.17183.tar.gz.sha256) | 112 B | `other` |
+| [vscodium-cli-linux-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-x64-1.143.17183.tar.gz) | 11.6 MiB | `native/unknown` |
+| [vscodium-cli-linux-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-x64-1.143.17183.tar.gz.sha1) | 84 B | `other` |
+| [vscodium-cli-linux-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-linux-x64-1.143.17183.tar.gz.sha256) | 108 B | `other` |
+| [vscodium-cli-win32-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-win32-arm64-1.143.17183.tar.gz) | 8.8 MiB | `native/win/arm64` |
+| [vscodium-cli-win32-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-win32-arm64-1.143.17183.tar.gz.sha1) | 86 B | `native/win/arm64` |
+| [vscodium-cli-win32-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-win32-arm64-1.143.17183.tar.gz.sha256) | 110 B | `native/win/arm64` |
+| [vscodium-cli-win32-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-win32-x64-1.143.17183.tar.gz) | 9.9 MiB | `native/win/x64` |
+| [vscodium-cli-win32-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-win32-x64-1.143.17183.tar.gz.sha1) | 84 B | `native/win/x64` |
+| [vscodium-cli-win32-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-cli-win32-x64-1.143.17183.tar.gz.sha256) | 108 B | `native/win/x64` |
+| [VSCodium-darwin-arm64-1.143.17183.zip](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-darwin-arm64-1.143.17183.zip) | 198.5 MiB | `native/darwin/arm64` |
+| [VSCodium-darwin-arm64-1.143.17183.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-darwin-arm64-1.143.17183.zip.sha1) | 80 B | `native/darwin/arm64` |
+| [VSCodium-darwin-arm64-1.143.17183.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-darwin-arm64-1.143.17183.zip.sha256) | 104 B | `native/darwin/arm64` |
+| [VSCodium-darwin-x64-1.143.17183.zip](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-darwin-x64-1.143.17183.zip) | 205.8 MiB | `native/darwin/x64` |
+| [VSCodium-darwin-x64-1.143.17183.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-darwin-x64-1.143.17183.zip.sha1) | 78 B | `native/darwin/x64` |
+| [VSCodium-darwin-x64-1.143.17183.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-darwin-x64-1.143.17183.zip.sha256) | 102 B | `native/darwin/x64` |
+| [VSCodium-linux-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-arm64-1.143.17183.tar.gz) | 201.2 MiB | `native/linux/arm64` |
+| [VSCodium-linux-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-arm64-1.143.17183.tar.gz.sha1) | 82 B | `native/linux/arm64` |
+| [VSCodium-linux-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-arm64-1.143.17183.tar.gz.sha256) | 106 B | `native/linux/arm64` |
+| [VSCodium-linux-loong64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-loong64-1.143.17183.tar.gz) | 205.9 MiB | `native/unknown` |
+| [VSCodium-linux-loong64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-loong64-1.143.17183.tar.gz.sha1) | 84 B | `other` |
+| [VSCodium-linux-loong64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-loong64-1.143.17183.tar.gz.sha256) | 108 B | `other` |
+| [VSCodium-linux-ppc64le-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-ppc64le-1.143.17183.tar.gz) | 212.5 MiB | `native/unknown` |
+| [VSCodium-linux-ppc64le-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-ppc64le-1.143.17183.tar.gz.sha1) | 84 B | `other` |
+| [VSCodium-linux-ppc64le-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-ppc64le-1.143.17183.tar.gz.sha256) | 108 B | `other` |
+| [VSCodium-linux-riscv64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-riscv64-1.143.17183.tar.gz) | 202.5 MiB | `native/linux/riscv64` |
+| [VSCodium-linux-riscv64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-riscv64-1.143.17183.tar.gz.sha1) | 84 B | `native/linux/riscv64` |
+| [VSCodium-linux-riscv64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-riscv64-1.143.17183.tar.gz.sha256) | 108 B | `native/linux/riscv64` |
+| [VSCodium-linux-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-x64-1.143.17183.tar.gz) | 204.8 MiB | `native/unknown` |
+| [VSCodium-linux-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-x64-1.143.17183.tar.gz.sha1) | 80 B | `other` |
+| [VSCodium-linux-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-linux-x64-1.143.17183.tar.gz.sha256) | 104 B | `other` |
+| [vscodium-reh-alpine-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-alpine-arm64-1.143.17183.tar.gz) | 85.5 MiB | `native/linux/arm64` |
+| [vscodium-reh-alpine-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-alpine-arm64-1.143.17183.tar.gz.sha1) | 87 B | `other` |
+| [vscodium-reh-alpine-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-alpine-arm64-1.143.17183.tar.gz.sha256) | 111 B | `other` |
+| [vscodium-reh-alpine-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-alpine-x64-1.143.17183.tar.gz) | 88.2 MiB | `native/unknown` |
+| [vscodium-reh-alpine-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-alpine-x64-1.143.17183.tar.gz.sha1) | 85 B | `other` |
+| [vscodium-reh-alpine-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-alpine-x64-1.143.17183.tar.gz.sha256) | 109 B | `other` |
+| [vscodium-reh-darwin-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-darwin-arm64-1.143.17183.tar.gz) | 79.8 MiB | `native/darwin/arm64` |
+| [vscodium-reh-darwin-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-darwin-arm64-1.143.17183.tar.gz.sha1) | 87 B | `native/darwin/arm64` |
+| [vscodium-reh-darwin-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-darwin-arm64-1.143.17183.tar.gz.sha256) | 111 B | `native/darwin/arm64` |
+| [vscodium-reh-darwin-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-darwin-x64-1.143.17183.tar.gz) | 81.4 MiB | `native/darwin/x64` |
+| [vscodium-reh-darwin-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-darwin-x64-1.143.17183.tar.gz.sha1) | 85 B | `native/darwin/x64` |
+| [vscodium-reh-darwin-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-darwin-x64-1.143.17183.tar.gz.sha256) | 109 B | `native/darwin/x64` |
+| [vscodium-reh-linux-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-arm64-1.143.17183.tar.gz) | 83.4 MiB | `native/linux/arm64` |
+| [vscodium-reh-linux-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-arm64-1.143.17183.tar.gz.sha1) | 86 B | `native/linux/arm64` |
+| [vscodium-reh-linux-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-arm64-1.143.17183.tar.gz.sha256) | 110 B | `native/linux/arm64` |
+| [vscodium-reh-linux-armhf-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-armhf-1.143.17183.tar.gz) | 82.4 MiB | `native/linux/arm` |
+| [vscodium-reh-linux-armhf-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-armhf-1.143.17183.tar.gz.sha1) | 86 B | `native/linux/arm` |
+| [vscodium-reh-linux-armhf-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-armhf-1.143.17183.tar.gz.sha256) | 110 B | `native/linux/arm` |
+| [vscodium-reh-linux-loong64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-loong64-1.143.17183.tar.gz) | 83.9 MiB | `native/unknown` |
+| [vscodium-reh-linux-loong64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-loong64-1.143.17183.tar.gz.sha1) | 88 B | `other` |
+| [vscodium-reh-linux-loong64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-loong64-1.143.17183.tar.gz.sha256) | 112 B | `other` |
+| [vscodium-reh-linux-ppc64le-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-ppc64le-1.143.17183.tar.gz) | 86.8 MiB | `native/unknown` |
+| [vscodium-reh-linux-ppc64le-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-ppc64le-1.143.17183.tar.gz.sha1) | 88 B | `other` |
+| [vscodium-reh-linux-ppc64le-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-ppc64le-1.143.17183.tar.gz.sha256) | 112 B | `other` |
+| [vscodium-reh-linux-riscv64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-riscv64-1.143.17183.tar.gz) | 77.9 MiB | `native/linux/riscv64` |
+| [vscodium-reh-linux-riscv64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-riscv64-1.143.17183.tar.gz.sha1) | 88 B | `native/linux/riscv64` |
+| [vscodium-reh-linux-riscv64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-riscv64-1.143.17183.tar.gz.sha256) | 112 B | `native/linux/riscv64` |
+| [vscodium-reh-linux-s390x-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-s390x-1.143.17183.tar.gz) | 83.2 MiB | `native/unknown` |
+| [vscodium-reh-linux-s390x-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-s390x-1.143.17183.tar.gz.sha1) | 86 B | `other` |
+| [vscodium-reh-linux-s390x-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-s390x-1.143.17183.tar.gz.sha256) | 110 B | `other` |
+| [vscodium-reh-linux-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-x64-1.143.17183.tar.gz) | 85.7 MiB | `native/unknown` |
+| [vscodium-reh-linux-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-x64-1.143.17183.tar.gz.sha1) | 84 B | `other` |
+| [vscodium-reh-linux-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-linux-x64-1.143.17183.tar.gz.sha256) | 108 B | `other` |
+| [vscodium-reh-web-alpine-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-alpine-arm64-1.143.17183.tar.gz) | 97.8 MiB | `native/linux/arm64` |
+| [vscodium-reh-web-alpine-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-alpine-arm64-1.143.17183.tar.gz.sha1) | 91 B | `other` |
+| [vscodium-reh-web-alpine-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-alpine-arm64-1.143.17183.tar.gz.sha256) | 115 B | `other` |
+| [vscodium-reh-web-alpine-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-alpine-x64-1.143.17183.tar.gz) | 100.5 MiB | `native/unknown` |
+| [vscodium-reh-web-alpine-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-alpine-x64-1.143.17183.tar.gz.sha1) | 89 B | `other` |
+| [vscodium-reh-web-alpine-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-alpine-x64-1.143.17183.tar.gz.sha256) | 113 B | `other` |
+| [vscodium-reh-web-darwin-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-darwin-arm64-1.143.17183.tar.gz) | 92.0 MiB | `native/darwin/arm64` |
+| [vscodium-reh-web-darwin-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-darwin-arm64-1.143.17183.tar.gz.sha1) | 91 B | `native/darwin/arm64` |
+| [vscodium-reh-web-darwin-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-darwin-arm64-1.143.17183.tar.gz.sha256) | 115 B | `native/darwin/arm64` |
+| [vscodium-reh-web-darwin-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-darwin-x64-1.143.17183.tar.gz) | 93.6 MiB | `native/darwin/x64` |
+| [vscodium-reh-web-darwin-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-darwin-x64-1.143.17183.tar.gz.sha1) | 89 B | `native/darwin/x64` |
+| [vscodium-reh-web-darwin-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-darwin-x64-1.143.17183.tar.gz.sha256) | 113 B | `native/darwin/x64` |
+| [vscodium-reh-web-linux-arm64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-arm64-1.143.17183.tar.gz) | 95.7 MiB | `native/linux/arm64` |
+| [vscodium-reh-web-linux-arm64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-arm64-1.143.17183.tar.gz.sha1) | 90 B | `native/linux/arm64` |
+| [vscodium-reh-web-linux-arm64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-arm64-1.143.17183.tar.gz.sha256) | 114 B | `native/linux/arm64` |
+| [vscodium-reh-web-linux-armhf-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-armhf-1.143.17183.tar.gz) | 94.6 MiB | `native/linux/arm` |
+| [vscodium-reh-web-linux-armhf-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-armhf-1.143.17183.tar.gz.sha1) | 90 B | `native/linux/arm` |
+| [vscodium-reh-web-linux-armhf-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-armhf-1.143.17183.tar.gz.sha256) | 114 B | `native/linux/arm` |
+| [vscodium-reh-web-linux-loong64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-loong64-1.143.17183.tar.gz) | 96.2 MiB | `native/unknown` |
+| [vscodium-reh-web-linux-loong64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-loong64-1.143.17183.tar.gz.sha1) | 92 B | `other` |
+| [vscodium-reh-web-linux-loong64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-loong64-1.143.17183.tar.gz.sha256) | 116 B | `other` |
+| [vscodium-reh-web-linux-ppc64le-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-ppc64le-1.143.17183.tar.gz) | 99.0 MiB | `native/unknown` |
+| [vscodium-reh-web-linux-ppc64le-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-ppc64le-1.143.17183.tar.gz.sha1) | 92 B | `other` |
+| [vscodium-reh-web-linux-ppc64le-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-ppc64le-1.143.17183.tar.gz.sha256) | 116 B | `other` |
+| [vscodium-reh-web-linux-riscv64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-riscv64-1.143.17183.tar.gz) | 90.1 MiB | `native/linux/riscv64` |
+| [vscodium-reh-web-linux-riscv64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-riscv64-1.143.17183.tar.gz.sha1) | 92 B | `native/linux/riscv64` |
+| [vscodium-reh-web-linux-riscv64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-riscv64-1.143.17183.tar.gz.sha256) | 116 B | `native/linux/riscv64` |
+| [vscodium-reh-web-linux-s390x-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-s390x-1.143.17183.tar.gz) | 95.4 MiB | `native/unknown` |
+| [vscodium-reh-web-linux-s390x-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-s390x-1.143.17183.tar.gz.sha1) | 90 B | `other` |
+| [vscodium-reh-web-linux-s390x-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-s390x-1.143.17183.tar.gz.sha256) | 114 B | `other` |
+| [vscodium-reh-web-linux-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-x64-1.143.17183.tar.gz) | 98.0 MiB | `native/unknown` |
+| [vscodium-reh-web-linux-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-x64-1.143.17183.tar.gz.sha1) | 88 B | `other` |
+| [vscodium-reh-web-linux-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-linux-x64-1.143.17183.tar.gz.sha256) | 112 B | `other` |
+| [vscodium-reh-web-win32-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-win32-x64-1.143.17183.tar.gz) | 91.2 MiB | `native/win/x64` |
+| [vscodium-reh-web-win32-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-win32-x64-1.143.17183.tar.gz.sha1) | 88 B | `native/win/x64` |
+| [vscodium-reh-web-win32-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-web-win32-x64-1.143.17183.tar.gz.sha256) | 112 B | `native/win/x64` |
+| [vscodium-reh-win32-x64-1.143.17183.tar.gz](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-win32-x64-1.143.17183.tar.gz) | 78.9 MiB | `native/win/x64` |
+| [vscodium-reh-win32-x64-1.143.17183.tar.gz.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-win32-x64-1.143.17183.tar.gz.sha1) | 84 B | `native/win/x64` |
+| [vscodium-reh-win32-x64-1.143.17183.tar.gz.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/vscodium-reh-win32-x64-1.143.17183.tar.gz.sha256) | 108 B | `native/win/x64` |
+| [VSCodium-win32-arm64-1.143.17183.zip](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-win32-arm64-1.143.17183.zip) | 213.4 MiB | `native/win/arm64` |
+| [VSCodium-win32-arm64-1.143.17183.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-win32-arm64-1.143.17183.zip.sha1) | 79 B | `native/win/arm64` |
+| [VSCodium-win32-arm64-1.143.17183.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-win32-arm64-1.143.17183.zip.sha256) | 103 B | `native/win/arm64` |
+| [VSCodium-win32-x64-1.143.17183.zip](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-win32-x64-1.143.17183.zip) | 220.7 MiB | `native/win/x64` |
+| [VSCodium-win32-x64-1.143.17183.zip.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-win32-x64-1.143.17183.zip.sha1) | 77 B | `native/win/x64` |
+| [VSCodium-win32-x64-1.143.17183.zip.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-win32-x64-1.143.17183.zip.sha256) | 101 B | `native/win/x64` |
+| [VSCodium-x64-1.143.17183.msi](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-x64-1.143.17183.msi) | 177.5 MiB | `other` |
+| [VSCodium-x64-1.143.17183.msi.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-x64-1.143.17183.msi.sha1) | 71 B | `other` |
+| [VSCodium-x64-1.143.17183.msi.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-x64-1.143.17183.msi.sha256) | 95 B | `other` |
+| [VSCodium-x64-updates-disabled-1.143.17183.msi](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-x64-updates-disabled-1.143.17183.msi) | 177.5 MiB | `other` |
+| [VSCodium-x64-updates-disabled-1.143.17183.msi.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-x64-updates-disabled-1.143.17183.msi.sha1) | 88 B | `other` |
+| [VSCodium-x64-updates-disabled-1.143.17183.msi.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium-x64-updates-disabled-1.143.17183.msi.sha256) | 112 B | `other` |
+| [VSCodium.arm64.1.143.17183.dmg](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium.arm64.1.143.17183.dmg) | 197.1 MiB | `other` |
+| [VSCodium.arm64.1.143.17183.dmg.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium.arm64.1.143.17183.dmg.sha1) | 73 B | `other` |
+| [VSCodium.arm64.1.143.17183.dmg.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium.arm64.1.143.17183.dmg.sha256) | 97 B | `other` |
+| [VSCodium.x64.1.143.17183.dmg](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium.x64.1.143.17183.dmg) | 203.9 MiB | `other` |
+| [VSCodium.x64.1.143.17183.dmg.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium.x64.1.143.17183.dmg.sha1) | 71 B | `other` |
+| [VSCodium.x64.1.143.17183.dmg.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodium.x64.1.143.17183.dmg.sha256) | 95 B | `other` |
+| [VSCodiumSetup-arm64-1.143.17183.exe](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumSetup-arm64-1.143.17183.exe) | 147.8 MiB | `other` |
+| [VSCodiumSetup-arm64-1.143.17183.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumSetup-arm64-1.143.17183.exe.sha1) | 78 B | `other` |
+| [VSCodiumSetup-arm64-1.143.17183.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumSetup-arm64-1.143.17183.exe.sha256) | 102 B | `other` |
+| [VSCodiumSetup-x64-1.143.17183.exe](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumSetup-x64-1.143.17183.exe) | 156.8 MiB | `other` |
+| [VSCodiumSetup-x64-1.143.17183.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumSetup-x64-1.143.17183.exe.sha1) | 76 B | `other` |
+| [VSCodiumSetup-x64-1.143.17183.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumSetup-x64-1.143.17183.exe.sha256) | 100 B | `other` |
+| [VSCodiumUserSetup-arm64-1.143.17183.exe](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumUserSetup-arm64-1.143.17183.exe) | 147.8 MiB | `other` |
+| [VSCodiumUserSetup-arm64-1.143.17183.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumUserSetup-arm64-1.143.17183.exe.sha1) | 82 B | `other` |
+| [VSCodiumUserSetup-arm64-1.143.17183.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumUserSetup-arm64-1.143.17183.exe.sha256) | 106 B | `other` |
+| [VSCodiumUserSetup-x64-1.143.17183.exe](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumUserSetup-x64-1.143.17183.exe) | 156.8 MiB | `other` |
+| [VSCodiumUserSetup-x64-1.143.17183.exe.sha1](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumUserSetup-x64-1.143.17183.exe.sha1) | 80 B | `other` |
+| [VSCodiumUserSetup-x64-1.143.17183.exe.sha256](https://github.com/VSCodium/vscodium/releases/download/1.143.17183/VSCodiumUserSetup-x64-1.143.17183.exe.sha256) | 104 B | `other` |
 
 ## Distribution status
 
-Reported by **61** distros on [repology.org](https://repology.org/project/vscodium). **22** are ✅ on the latest upstream release, **30** are ⚠️ on an older version.
+Reported by **62** distros on [repology.org](https://repology.org/project/vscodium). **7** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Nix unstable | `1.140.06880` | ✅ latest |
+| Nix unstable | `1.140.06880` | ⚠️ outdated |
 | Alpine edge | `1.110.11631` | ⚠️ outdated |
 
 ## Improve this data
@@ -268,4 +268,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261026.yml` · 2026-10-26T03:56:28Z._
+_Snapshot: `data/card/261027.yml` · 2026-10-27T04:18:19Z._
