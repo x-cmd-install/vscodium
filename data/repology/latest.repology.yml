@@ -1,35 +1,67 @@
-- repo: terra_39
+- repo: terra_40
   srcname: codium
   binname: codium
   visiblename: codium
-  version: 1.95.3.24321
-  origversion: 1.95.3.24321-1.fc39
-  status: legacy
+  version: 1.101.03933
+  origversion: 1.101.03933-1.fc40
+  status: outdated
   summary: Code editing. Redefined.
   licenses:
     - MIT
   categories:
     - Unspecified
-- repo: alt_p11
+- repo: terra_41
   srcname: codium
-  binnames:
-    - codium
-    - codium-debuginfo
+  binname: codium
   visiblename: codium
-  version: 1.135.06055
-  origversion: 1.135.06055-alt1
+  version: 1.105.17075
+  origversion: 1.105.17075-1.fc41
   status: outdated
-  summary: Community build of the Visual Studio Code editor
-  maintainers:
-    - karonus@altlinux.org
+  summary: Code editing. Redefined.
   licenses:
     - MIT
   categories:
-    - Development/Other
+    - Unspecified
+- repo: terra_41
+  srcname: codium
+  binname: codium
+  visiblename: codium
+  version: 1.105.17075
+  origversion: 1.105.17075-1.fc41
+  status: outdated
+  summary: Code editing. Redefined.
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: aosc
+  srcname: app-editors/vscodium
+  binname: vscodium
+  visiblename: vscodium
+  version: 1.126.04524
+  origversion: null
+  status: outdated
+  summary: Visual Studio Code - Open Source
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - devel
+- repo: exherbo
+  subrepo: SuperHeron-misc
+  srcname: app-editors/VSCodium
+  visiblename: app-editors/VSCodium
+  version: 1.126.04524
+  origversion: null
+  status: outdated
+  summary: Free/Libre Open Source Software Binaries of VS Code
+  maintainers:
+    - fallback-mnt-exherbo@repology
+  categories:
+    - app-editors
 - repo: aerynos
   srcname: vscodium
   visiblename: vscodium
-  version: 1.140.06880
+  version: 1.143.17183
   origversion: null
   status: newest
   summary: VSCodium - Free/Libre Open Source Software Binaries of Visual Studio Code
@@ -74,6 +106,22 @@
     - sodomon2@gmail.com
   licenses:
     - MIT
+- repo: alt_p11
+  srcname: codium
+  binnames:
+    - codium
+    - codium-debuginfo
+  visiblename: codium
+  version: 1.135.06055
+  origversion: 1.135.06055-alt1
+  status: outdated
+  summary: Community build of the Visual Studio Code editor
+  maintainers:
+    - karonus@altlinux.org
+  licenses:
+    - MIT
+  categories:
+    - Development/Other
 - repo: altsisyphus
   srcname: codium
   binnames:
@@ -90,24 +138,12 @@
     - MIT
   categories:
     - Development/Other
-- repo: aosc
-  srcname: app-editors/vscodium
-  binname: vscodium
-  visiblename: vscodium
-  version: 1.126.04524
-  origversion: null
-  status: outdated
-  summary: Visual Studio Code - Open Source
-  maintainers:
-    - fallback-mnt-aosc@repology
-  categories:
-    - devel
 - repo: aur
   srcname: vscodium
   binname: vscodium
   visiblename: vscodium
-  version: 1.140.06880
-  origversion: 1.140.06880-1
+  version: 1.143.17183
+  origversion: 1.143.17183-1
   status: newest
   summary: Free/Libre Open Source Software Binaries of VSCode (git build from latest release).
   maintainers:
@@ -119,12 +155,24 @@
   srcname: vscodium-bin
   binname: vscodium-bin
   visiblename: vscodium-bin
-  version: 1.140.06880
-  origversion: 1.140.06880-1
+  version: 1.143.17183
+  origversion: 1.143.17183-1
   status: newest
   summary: Binary releases of VS Code without MS branding/telemetry/licensing.
   maintainers:
     - icelk@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: vscodium-electron-bin
+  binname: vscodium-electron-bin
+  visiblename: vscodium-electron-bin
+  version: 1.143.17183
+  origversion: 1.143.17183-1
+  status: newest
+  summary: Free/Libre Open Source Software Binaries of Visual Studio Code.
+  maintainers:
+    - zxp19821005@aur
   licenses:
     - MIT
 - repo: aur
@@ -133,22 +181,10 @@
   visiblename: vscodium-electron
   version: 1.140.06880
   origversion: 1.140.06880-1
-  status: newest
+  status: legacy
   summary: VS Code without MS branding/telemetry/licensing. - System-wide Electron edition
   maintainers:
     - hurricanepootis@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: vscodium-electron-bin
-  binname: vscodium-electron-bin
-  visiblename: vscodium-electron-bin
-  version: 1.140.06880
-  origversion: 1.140.06880-1
-  status: newest
-  summary: Free/Libre Open Source Software Binaries of Visual Studio Code.
-  maintainers:
-    - zxp19821005@aur
   licenses:
     - MIT
 - repo: aur
@@ -169,52 +205,29 @@
   visiblename: VSCodium
   version: 1.140.6880
   origversion: null
-  status: newest
+  status: outdated
   summary: VSCodium
 - repo: chocolatey
   binname: vscodium.install
   visiblename: VSCodium (Install)
   version: 1.140.6880
   origversion: null
-  status: newest
+  status: outdated
   summary: VSCodium (Install)
 - repo: chocolatey
   binname: vscodium.portable
   visiblename: VSCodium (Portable)
   version: 1.140.6880
   origversion: null
-  status: newest
+  status: outdated
   summary: VSCodium (Portable)
 - repo: chromebrew
   srcname: vscodium
   visiblename: vscodium
   version: 1.140.06880
   origversion: null
-  status: newest
-  summary: VSCodium is Open Source Software Binaries of VSCode with a community-driven default configuration.
-  licenses:
-    - MIT
-- repo: exherbo
-  subrepo: SuperHeron-misc
-  srcname: app-editors/VSCodium
-  visiblename: app-editors/VSCodium
-  version: 1.126.04524
-  origversion: null
   status: outdated
-  summary: Free/Libre Open Source Software Binaries of VS Code
-  maintainers:
-    - fallback-mnt-exherbo@repology
-  categories:
-    - app-editors
-- repo: nix_unstable
-  srcname: vscodium-fhs
-  visiblename: vscodium
-  version: 1.140.06880
-  origversion: null
-  status: newest
-  summary: Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
-  maintainers:
-    - rjl931189261@126.com
+  summary: VSCodium is Open Source Software Binaries of VSCode with a community-driven default configuration.
   licenses:
     - MIT
 - repo: gentoo
@@ -222,7 +235,7 @@
   visiblename: app-editors/vscodium
   version: 1.140.06880
   origversion: null
-  status: newest
+  status: outdated
   summary: A community-driven, freely-licensed binary distribution of Microsoft's VSCode
   maintainers:
     - adel.ks@zegrapher.com
@@ -247,6 +260,17 @@
     - W3C
   categories:
     - app-editors
+- repo: nix_unstable
+  srcname: vscodium-fhs
+  visiblename: vscodium
+  version: 1.140.06880
+  origversion: null
+  status: outdated
+  summary: Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
+  maintainers:
+    - rjl931189261@126.com
+  licenses:
+    - MIT
 - repo: gentoo
   srcname: app-editors/vscodium
   visiblename: app-editors/vscodium
@@ -280,7 +304,7 @@
 - repo: homebrew_casks
   srcname: vscodium
   visiblename: VSCodium
-  version: 1.140.06880
+  version: 1.143.17183
   origversion: null
   status: newest
   summary: Binary releases of VS Code without MS branding/telemetry/licensing
@@ -289,7 +313,7 @@
   visiblename: VSCodium
   version: 1.143.17171-insider
   origversion: null
-  status: untrusted
+  status: outdated
   summary: Code editor
 - repo: kaos
   subrepo: apps
@@ -298,6 +322,19 @@
   visiblename: vscodium
   version: 1.140.06880
   origversion: 1.140.06880-1
+  status: outdated
+  summary: Binary releases of VS Code without MS branding/telemetry/licensing.
+  maintainers:
+    - demm@kaosx.us
+  licenses:
+    - MIT
+- repo: kaos_build
+  subrepo: build
+  srcname: vscodium
+  binname: vscodium
+  visiblename: vscodium
+  version: 1.143.17183
+  origversion: 1.143.17183-1
   status: newest
   summary: Binary releases of VS Code without MS branding/telemetry/licensing.
   maintainers:
@@ -369,7 +406,7 @@
   visiblename: app-editors/vscodium
   version: 1.140.06880
   origversion: null
-  status: newest
+  status: outdated
   summary: A community-driven, freely-licensed binary distribution of Microsoft's VSCode
   maintainers:
     - adel.ks@zegrapher.com
@@ -394,6 +431,16 @@
     - W3C
   categories:
     - app-editors
+- repo: pacstall
+  srcname: vscodium-bin
+  binname: vscodium-bin
+  visiblename: vscodium-bin
+  version: 1.97.2.25045
+  origversion: 1.97.2.25045-1
+  status: outdated
+  summary: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
+  maintainers:
+    - jimedrand@disroot.org
 - repo: liguros_develop
   srcname: app-editors/vscodium
   visiblename: app-editors/vscodium
@@ -463,6 +510,18 @@
     - lewdovico@gnuweeb.org
   licenses:
     - MIT
+- repo: terra_40
+  srcname: codium
+  binname: codium
+  visiblename: codium
+  version: 1.101.03933
+  origversion: 1.101.03933-1.fc40
+  status: outdated
+  summary: Code editing. Redefined.
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
 - repo: nix_stable_25_05
   srcname: vscodium-fhs
   visiblename: codium
@@ -527,22 +586,12 @@
   visiblename: vscodium
   version: 1.140.06880
   origversion: null
-  status: newest
+  status: outdated
   summary: Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing)
   maintainers:
     - rjl931189261@126.com
   licenses:
     - MIT
-- repo: pacstall
-  srcname: vscodium-bin
-  binname: vscodium-bin
-  visiblename: vscodium-bin
-  version: 1.97.2.25045
-  origversion: 1.97.2.25045-1
-  status: outdated
-  summary: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
-  maintainers:
-    - jimedrand@disroot.org
 - repo: pacstall
   srcname: vscodium-deb
   binname: vscodium-deb
@@ -559,7 +608,7 @@
   visiblename: VSCodium
   version: 1.140.06880
   origversion: 1.140.06880-1pclos2026
-  status: newest
+  status: outdated
   summary: Free/Libre Open Source Software Binaries of VSCode
   maintainers:
     - ruidobranco@yahoo.com.br
@@ -618,7 +667,7 @@
   subrepo: extras
   binname: vscodium
   visiblename: vscodium
-  version: 1.140.06880
+  version: 1.143.17183
   origversion: null
   status: newest
   licenses:
@@ -628,7 +677,7 @@
   visiblename: development/vscodium
   version: 1.140.06880
   origversion: null
-  status: newest
+  status: outdated
   maintainers:
     - ferenc.kurucz.6351@gmail.com
   categories:
@@ -715,56 +764,20 @@
   srcname: codium
   binname: codium
   visiblename: codium
+  version: 1.95.3.24321
+  origversion: 1.95.3.24321-1.fc39
+  status: legacy
+  summary: Code editing. Redefined.
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_39
+  srcname: codium
+  binname: codium
+  visiblename: codium
   version: 1.96.0.24347
   origversion: 1.96.0.24347-1.fc39
-  status: outdated
-  summary: Code editing. Redefined.
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_40
-  srcname: codium
-  binname: codium
-  visiblename: codium
-  version: 1.101.03933
-  origversion: 1.101.03933-1.fc40
-  status: outdated
-  summary: Code editing. Redefined.
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_40
-  srcname: codium
-  binname: codium
-  visiblename: codium
-  version: 1.101.03933
-  origversion: 1.101.03933-1.fc40
-  status: outdated
-  summary: Code editing. Redefined.
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_41
-  srcname: codium
-  binname: codium
-  visiblename: codium
-  version: 1.105.17075
-  origversion: 1.105.17075-1.fc41
-  status: outdated
-  summary: Code editing. Redefined.
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_41
-  srcname: codium
-  binname: codium
-  visiblename: codium
-  version: 1.105.17075
-  origversion: 1.105.17075-1.fc41
   status: outdated
   summary: Code editing. Redefined.
   licenses:
@@ -777,7 +790,7 @@
   visiblename: codium
   version: 1.140.06880
   origversion: 1.140.06880-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Code editing. Redefined.
   licenses:
     - Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
@@ -789,7 +802,7 @@
   visiblename: codium
   version: 1.140.06880
   origversion: 1.140.06880-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Code editing. Redefined.
   licenses:
     - Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
@@ -801,7 +814,7 @@
   visiblename: codium-bash-completion
   version: 1.140.06880
   origversion: 1.140.06880-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Bash completion for codium
   licenses:
     - Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
@@ -813,7 +826,7 @@
   visiblename: codium-zsh-completion
   version: 1.140.06880
   origversion: 1.140.06880-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Zsh completion for codium
   licenses:
     - Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
