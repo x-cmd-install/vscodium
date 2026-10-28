@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `1.143.17183` (2026-10-26)
-- **Last commit**: 2026-10-26
+- **Last commit**: 2026-10-27
 - **Assets in release**: 180
 
 ## Popularity
 
-- **Stars**: 33,817 · **Forks**: 1,900 · **Open issues**: 1,780 · **Contributors**: 134
+- **Stars**: 33,833 · **Forks**: 1,899 · **Open issues**: 1,783 · **Contributors**: 134
 
 ## Totals (cumulative)
 
-- **Releases**: 274 · **Merged PRs**: 750 · **Open PRs**: 14 · **Closed issues**: 1646 · **Open issues**: 134 · **Commits**: 1949
+- **Releases**: 274 · **Merged PRs**: 751 · **Open PRs**: 14 · **Closed issues**: 1648 · **Open issues**: 135 · **Commits**: 1950
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 2 | 14 | 4 | 5 | 21 | 26 |
-| last60d | 2026-08-28 | 3 | 28 | 8 | 9 | 35 | 44 |
-| 90d | 2026-07-29 | 3 | 42 | 10 | 11 | 48 | 62 |
-| last180d | 2026-04-30 | 5 | 83 | 12 | 28 | 79 | 109 |
-| 360d | 2025-11-01 | 23 | 170 | 12 | 108 | 106 | 239 |
-| last720d | 2024-11-06 | 75 | 288 | 13 | 361 | 120 | 611 |
+| 30d | 2026-09-28 | 2 | 14 | 4 | 7 | 21 | 27 |
+| last60d | 2026-08-29 | 3 | 29 | 8 | 11 | 35 | 45 |
+| 90d | 2026-07-30 | 3 | 43 | 10 | 13 | 49 | 63 |
+| last180d | 2026-05-01 | 5 | 83 | 12 | 29 | 80 | 110 |
+| 360d | 2025-11-02 | 23 | 171 | 12 | 110 | 107 | 240 |
+| last720d | 2024-11-07 | 75 | 289 | 13 | 362 | 121 | 612 |
 
 ## Release assets
 
@@ -252,7 +252,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **62** distros on [repology.org](https://repology.org/project/vscodium). **7** are ✅ on the latest upstream release, **46** are ⚠️ on an older version.
+Reported by **61** distros on [repology.org](https://repology.org/project/vscodium). **8** are ✅ on the latest upstream release, **44** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -268,4 +268,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T04:18:19Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T04:48:01Z._
