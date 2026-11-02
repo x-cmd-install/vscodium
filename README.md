@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 33,904 · **Forks**: 1,915 · **Open issues**: 1,785 · **Contributors**: 134
+- **Stars**: 33,917 · **Forks**: 1,917 · **Open issues**: 1,785 · **Contributors**: 134
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 3 | 14 | 8 | 9 | 18 | 27 |
-| last60d | 2026-09-02 | 4 | 24 | 11 | 13 | 32 | 45 |
-| 90d | 2026-08-03 | 4 | 43 | 13 | 15 | 44 | 63 |
-| last180d | 2026-05-05 | 6 | 81 | 15 | 30 | 78 | 110 |
-| 360d | 2025-11-06 | 24 | 170 | 15 | 109 | 105 | 240 |
-| last720d | 2024-11-11 | 75 | 287 | 16 | 360 | 119 | 606 |
+| 30d | 2026-10-03 | 3 | 14 | 8 | 8 | 18 | 14 |
+| last60d | 2026-09-03 | 4 | 21 | 11 | 13 | 31 | 28 |
+| 90d | 2026-08-04 | 4 | 42 | 13 | 15 | 43 | 59 |
+| last180d | 2026-05-06 | 6 | 81 | 15 | 30 | 78 | 109 |
+| 360d | 2025-11-07 | 24 | 168 | 15 | 109 | 105 | 231 |
+| last720d | 2024-11-12 | 75 | 287 | 16 | 358 | 119 | 606 |
 
 ## Release assets
 
@@ -252,7 +252,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **61** distros on [repology.org](https://repology.org/project/vscodium). **11** are ✅ on the latest upstream release, **41** are ⚠️ on an older version.
+Reported by **61** distros on [repology.org](https://repology.org/project/vscodium). **14** are ✅ on the latest upstream release, **38** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -268,4 +268,4 @@ Install metadata for vscodium lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:07:15Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T05:08:10Z._
