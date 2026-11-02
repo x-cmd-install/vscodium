@@ -155,23 +155,23 @@
 - repo: chocolatey
   binname: vscodium
   visiblename: VSCodium
-  version: 1.140.6880
+  version: 1.143.17232
   origversion: null
-  status: outdated
+  status: newest
   summary: VSCodium
 - repo: chocolatey
   binname: vscodium.install
   visiblename: VSCodium (Install)
-  version: 1.140.6880
+  version: 1.143.17232
   origversion: null
-  status: outdated
+  status: newest
   summary: VSCodium (Install)
 - repo: chocolatey
   binname: vscodium.portable
   visiblename: VSCodium (Portable)
-  version: 1.140.6880
+  version: 1.143.17232
   origversion: null
-  status: outdated
+  status: newest
   summary: VSCodium (Portable)
 - repo: chromebrew
   srcname: vscodium
@@ -311,6 +311,16 @@
     - W3C
   categories:
     - app-editors
+- repo: slackbuilds
+  srcname: development/vscodium
+  visiblename: development/vscodium
+  version: 1.140.06880
+  origversion: null
+  status: outdated
+  maintainers:
+    - ferenc.kurucz.6351@gmail.com
+  categories:
+    - development
 - repo: liguros_stable
   srcname: app-editors/vscodium
   visiblename: app-editors/vscodium
@@ -371,6 +381,15 @@
     - W3C
   categories:
     - app-editors
+- repo: scoop
+  subrepo: extras
+  binname: vscodium
+  visiblename: vscodium
+  version: 1.143.17232
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
 - repo: liguros_develop
   srcname: app-editors/vscodium
   visiblename: app-editors/vscodium
@@ -477,62 +496,64 @@
     - rjl931189261@126.com
   licenses:
     - MIT
-- repo: nix_stable_26_05
+- repo: solus
   srcname: vscodium
+  binname: vscodium
   visiblename: vscodium
-  version: 1.116.02821
+  version: 1.135.06055
   origversion: null
   status: outdated
-  summary: Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing)
+  summary: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
   maintainers:
-    - rjl931189261@126.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: vscodium-fhs
-  visiblename: vscodium
-  version: 1.116.02821
-  origversion: null
-  status: outdated
-  summary: Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
-  maintainers:
-    - rjl931189261@126.com
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: vscodium
-  visiblename: vscodium
-  version: 1.140.06880
-  origversion: null
-  status: outdated
-  summary: Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing)
-  maintainers:
-    - rjl931189261@126.com
-  licenses:
-    - MIT
-- repo: nix_unstable
-  srcname: vscodium-fhs
-  visiblename: vscodium
-  version: 1.140.06880
-  origversion: null
-  status: outdated
-  summary: Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
-  maintainers:
-    - rjl931189261@126.com
-  licenses:
-    - MIT
-- repo: terra_39
-  srcname: codium
-  binname: codium
-  visiblename: codium
-  version: 1.95.3.24321
-  origversion: 1.95.3.24321-1.fc39
-  status: legacy
-  summary: Code editing. Redefined.
+    - trevor@tbusk.com
   licenses:
     - MIT
   categories:
-    - Unspecified
+    - programming.ide
+- repo: nix_stable_26_05
+  srcname: vscodium
+  visiblename: vscodium
+  version: 1.116.02821
+  origversion: null
+  status: outdated
+  summary: Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing)
+  maintainers:
+    - rjl931189261@126.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: vscodium-fhs
+  visiblename: vscodium
+  version: 1.116.02821
+  origversion: null
+  status: outdated
+  summary: Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
+  maintainers:
+    - rjl931189261@126.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: vscodium
+  visiblename: vscodium
+  version: 1.140.06880
+  origversion: null
+  status: outdated
+  summary: Open source source code editor developed by Microsoft for Windows, Linux and macOS (VS Code without MS branding/telemetry/licensing)
+  maintainers:
+    - rjl931189261@126.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: vscodium-fhs
+  visiblename: vscodium
+  version: 1.140.06880
+  origversion: null
+  status: outdated
+  summary: Wrapped variant of vscodium which launches in a FHS compatible environment, should allow for easy usage of extensions without nix-specific modifications
+  maintainers:
+    - rjl931189261@126.com
+  licenses:
+    - MIT
 - repo: pacstall
   srcname: vscodium-bin
   binname: vscodium-bin
@@ -614,39 +635,6 @@
     - MIT
   categories:
     - Development/Other
-- repo: scoop
-  subrepo: extras
-  binname: vscodium
-  visiblename: vscodium
-  version: 1.143.17232
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: slackbuilds
-  srcname: development/vscodium
-  visiblename: development/vscodium
-  version: 1.140.06880
-  origversion: null
-  status: outdated
-  maintainers:
-    - ferenc.kurucz.6351@gmail.com
-  categories:
-    - development
-- repo: solus
-  srcname: vscodium
-  binname: vscodium
-  visiblename: vscodium
-  version: 1.135.06055
-  origversion: null
-  status: outdated
-  summary: VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.
-  maintainers:
-    - trevor@tbusk.com
-  licenses:
-    - MIT
-  categories:
-    - programming.ide
 - repo: solus
   srcname: vscodium
   binname: vscodium-32bit-dbginfo
@@ -705,6 +693,18 @@
   visiblename: codium
   version: 1.84.1.23311
   origversion: 1.84.1.23311-1.fc39
+  status: legacy
+  summary: Code editing. Redefined.
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_39
+  srcname: codium
+  binname: codium
+  visiblename: codium
+  version: 1.95.3.24321
+  origversion: 1.95.3.24321-1.fc39
   status: legacy
   summary: Code editing. Redefined.
   licenses:
