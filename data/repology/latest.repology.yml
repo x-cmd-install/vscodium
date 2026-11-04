@@ -1,27 +1,13 @@
-- repo: terra_41
-  srcname: codium
-  binname: codium
-  visiblename: codium
-  version: 1.105.17075
-  origversion: 1.105.17075-1.fc41
-  status: outdated
-  summary: Code editing. Redefined.
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: aosc
-  srcname: app-editors/vscodium
-  binname: vscodium
-  visiblename: vscodium
-  version: 1.126.04524
+- repo: slackbuilds
+  srcname: development/vscodium
+  visiblename: development/vscodium
+  version: 1.140.06880
   origversion: null
   status: outdated
-  summary: Visual Studio Code - Open Source
   maintainers:
-    - fallback-mnt-aosc@repology
+    - ferenc.kurucz.6351@gmail.com
   categories:
-    - devel
+    - development
 - repo: aerynos
   srcname: vscodium
   visiblename: vscodium
@@ -102,6 +88,18 @@
     - MIT
   categories:
     - Development/Other
+- repo: aosc
+  srcname: app-editors/vscodium
+  binname: vscodium
+  visiblename: vscodium
+  version: 1.126.04524
+  origversion: null
+  status: outdated
+  summary: Visual Studio Code - Open Source
+  maintainers:
+    - fallback-mnt-aosc@repology
+  categories:
+    - devel
 - repo: aur
   srcname: vscodium
   binname: vscodium
@@ -128,6 +126,18 @@
   licenses:
     - MIT
 - repo: aur
+  srcname: vscodium-electron
+  binname: vscodium-electron
+  visiblename: vscodium-electron
+  version: 1.143.17232
+  origversion: 1.143.17232-1
+  status: newest
+  summary: VS Code without MS branding/telemetry/licensing. - System-wide Electron edition
+  maintainers:
+    - hurricanepootis@aur
+  licenses:
+    - MIT
+- repo: aur
   srcname: vscodium-electron-bin
   binname: vscodium-electron-bin
   visiblename: vscodium-electron-bin
@@ -137,18 +147,6 @@
   summary: Free/Libre Open Source Software Binaries of Visual Studio Code.
   maintainers:
     - zxp19821005@aur
-  licenses:
-    - MIT
-- repo: aur
-  srcname: vscodium-electron
-  binname: vscodium-electron
-  visiblename: vscodium-electron
-  version: 1.143.17183
-  origversion: 1.143.17183-1
-  status: legacy
-  summary: VS Code without MS branding/telemetry/licensing. - System-wide Electron edition
-  maintainers:
-    - hurricanepootis@aur
   licenses:
     - MIT
 - repo: aur
@@ -293,55 +291,12 @@
     - W3C
   categories:
     - app-editors
-- repo: pisi_contrib
-  srcname: development/VSCodium
-  visiblename: VSCodium
-  version: 1.112.01907
-  origversion: null
-  status: outdated
-  summary: Free/Libre Open Source Software Binaries of VS Code
-  maintainers:
-    - erkanisik@pisilinux.org
-  licenses:
-    - MIT
-  categories:
-    - app:gui
 - repo: liguros_stable
   srcname: app-editors/vscodium
   visiblename: app-editors/vscodium
   version: 1.103.25610
   origversion: null
   status: outdated
-  summary: A community-driven, freely-licensed binary distribution of Microsoft's VSCode
-  maintainers:
-    - adel.ks@zegrapher.com
-    - arthurzam@gentoo.org
-    - proxy-maint@gentoo.org
-  licenses:
-    - Apache-2.0
-    - BSD
-    - BSD-1
-    - BSD-2
-    - BSD-4
-    - CC-BY-4.0
-    - ISC
-    - LGPL-2.1+
-    - MIT
-    - MPL-2.0
-    - openssl
-    - PYTHON
-    - TextMate-bundle
-    - Unlicense
-    - UoI-NCSA
-    - W3C
-  categories:
-    - app-editors
-- repo: liguros_develop
-  srcname: app-editors/vscodium
-  visiblename: app-editors/vscodium
-  version: 1.135.06055
-  origversion: 1.135.06055-r1
-  status: legacy
   summary: A community-driven, freely-licensed binary distribution of Microsoft's VSCode
   maintainers:
     - adel.ks@zegrapher.com
@@ -548,6 +503,19 @@
     - ruidobranco@yahoo.com.br
   categories:
     - Development/Tools
+- repo: pisi_contrib
+  srcname: development/VSCodium
+  visiblename: VSCodium
+  version: 1.112.01907
+  origversion: null
+  status: outdated
+  summary: Free/Libre Open Source Software Binaries of VS Code
+  maintainers:
+    - erkanisik@pisilinux.org
+  licenses:
+    - MIT
+  categories:
+    - app:gui
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: codium
@@ -593,16 +561,6 @@
   status: newest
   licenses:
     - MIT
-- repo: slackbuilds
-  srcname: development/vscodium
-  visiblename: development/vscodium
-  version: 1.140.06880
-  origversion: null
-  status: outdated
-  maintainers:
-    - ferenc.kurucz.6351@gmail.com
-  categories:
-    - development
 - repo: solus
   srcname: vscodium
   binname: vscodium
@@ -723,6 +681,18 @@
   visiblename: codium
   version: 1.101.03933
   origversion: 1.101.03933-1.fc40
+  status: outdated
+  summary: Code editing. Redefined.
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_41
+  srcname: codium
+  binname: codium
+  visiblename: codium
+  version: 1.105.17075
+  origversion: 1.105.17075-1.fc41
   status: outdated
   summary: Code editing. Redefined.
   licenses:
