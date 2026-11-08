@@ -311,6 +311,16 @@
     - W3C
   categories:
     - app-editors
+- repo: slackbuilds
+  srcname: development/vscodium
+  visiblename: development/vscodium
+  version: 1.143.17232
+  origversion: null
+  status: newest
+  maintainers:
+    - ferenc.kurucz.6351@gmail.com
+  categories:
+    - development
 - repo: liguros_develop
   srcname: app-editors/vscodium
   visiblename: app-editors/vscodium
@@ -485,17 +495,6 @@
 - repo: pclinuxos
   srcname: VSCodium
   visiblename: VSCodium
-  version: 1.140.06880
-  origversion: 1.140.06880-1pclos2026
-  status: legacy
-  summary: Free/Libre Open Source Software Binaries of VSCode
-  maintainers:
-    - ruidobranco@yahoo.com.br
-  categories:
-    - Development/Tools
-- repo: pclinuxos
-  srcname: VSCodium
-  visiblename: VSCodium
   version: 1.143.17232
   origversion: 1.143.17232-1pclos2026
   status: newest
@@ -560,16 +559,6 @@
   status: newest
   licenses:
     - MIT
-- repo: slackbuilds
-  srcname: development/vscodium
-  visiblename: development/vscodium
-  version: 1.143.17232
-  origversion: null
-  status: newest
-  maintainers:
-    - ferenc.kurucz.6351@gmail.com
-  categories:
-    - development
 - repo: solus
   srcname: vscodium
   binname: vscodium
