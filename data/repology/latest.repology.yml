@@ -1,10 +1,3 @@
-- repo: chocolatey
-  binname: vscodium
-  visiblename: VSCodium
-  version: 1.143.17232
-  origversion: null
-  status: newest
-  summary: VSCodium
 - repo: aerynos
   srcname: vscodium
   visiblename: vscodium
@@ -89,7 +82,7 @@
   srcname: app-editors/vscodium
   binname: vscodium
   visiblename: vscodium
-  version: 1.126.04524
+  version: 1.143.17183
   origversion: null
   status: outdated
   summary: Visual Studio Code - Open Source
@@ -159,6 +152,13 @@
     - daiyam@aur
   licenses:
     - MIT
+- repo: chocolatey
+  binname: vscodium
+  visiblename: VSCodium
+  version: 1.143.17232
+  origversion: null
+  status: newest
+  summary: VSCodium
 - repo: chocolatey
   binname: vscodium.install
   visiblename: VSCodium (Install)
@@ -311,16 +311,6 @@
     - W3C
   categories:
     - app-editors
-- repo: slackbuilds
-  srcname: development/vscodium
-  visiblename: development/vscodium
-  version: 1.143.17232
-  origversion: null
-  status: newest
-  maintainers:
-    - ferenc.kurucz.6351@gmail.com
-  categories:
-    - development
 - repo: liguros_develop
   srcname: app-editors/vscodium
   visiblename: app-editors/vscodium
@@ -501,6 +491,15 @@
   summary: Free/Libre Open Source Software Binaries of VSCode
   categories:
     - Development/Tools
+- repo: wikidata
+  srcname: Q111967621
+  visiblename: VSCodium
+  version: 1.135.06055
+  origversion: null
+  status: outdated
+  summary: fork and free licensed binary distribution of Visual Studio Code
+  licenses:
+    - MIT License
 - repo: pisi_contrib
   srcname: development/VSCodium
   visiblename: VSCodium
@@ -559,6 +558,16 @@
   status: newest
   licenses:
     - MIT
+- repo: slackbuilds
+  srcname: development/vscodium
+  visiblename: development/vscodium
+  version: 1.143.17232
+  origversion: null
+  status: newest
+  maintainers:
+    - ferenc.kurucz.6351@gmail.com
+  categories:
+    - development
 - repo: solus
   srcname: vscodium
   binname: vscodium
@@ -757,12 +766,3 @@
     - Apache-2.0 AND LGPL-3.0-or-later AND MIT AND (MIT AND (BSD-3-Clause AND LGPL-2.1-or-later AND Apache-2.0 AND IJG AND MIT AND GPL-2.0-or-later AND ISC AND OpenSSL AND (MPL-1.1 OR GPL-2.0-only OR LGPL-2.0-only)))
   categories:
     - Unspecified
-- repo: wikidata
-  srcname: Q111967621
-  visiblename: VSCodium
-  version: 1.135.06055
-  origversion: null
-  status: outdated
-  summary: fork and free licensed binary distribution of Visual Studio Code
-  licenses:
-    - MIT License
